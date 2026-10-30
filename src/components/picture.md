@@ -1,0 +1,1 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="{{ asset_base }}/{{ name }}-dark.svg"><img alt="{{ alt }}" src="{{ asset_base }}/{{ name }}-light.svg" width="{{ width|100% }}"></picture>

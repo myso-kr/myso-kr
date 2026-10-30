@@ -1,0 +1,74 @@
+{
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 05:13 KST. 1) .github: docs: rewrite maintainer README (6분 전). 2) .github: style: rename table links to 웹사이트/저장소 (14분 전). 3) .github: style: unify link cell in services table (15분 전). 4) kinekino: chore(deps): use published meari 0.1.0 from crates.io and drop vendor/meari (28분 전). 5) meari: release: drop npm distribution; meari ships through cargo/crates.io only (2시간 전). 6) specfold: C162: refuse U+0085, U+2028, U+2029 in titles (3시간 전). 7) meari: release: publish only crates missing from crates.io so bootstrap-published versions do not fail the tag run (7시간 전). 8) pmcp: chore: release pmcp 0.22.4 (2일 전).",
+  "activity_items": [
+    {
+      "repo": ".github",
+      "url": "https://github.com/modootoday/.github",
+      "msg": "docs: rewrite maintainer README",
+      "when": "6분 전"
+    },
+    {
+      "repo": ".github",
+      "url": "https://github.com/modootoday/.github",
+      "msg": "style: rename table links to 웹사이트/저장소",
+      "when": "14분 전"
+    },
+    {
+      "repo": ".github",
+      "url": "https://github.com/modootoday/.github",
+      "msg": "style: unify link cell in services table",
+      "when": "15분 전"
+    },
+    {
+      "repo": "kinekino",
+      "url": "https://github.com/modootoday/kinekino",
+      "msg": "chore(deps): use published meari 0.1.0 from crates.io and drop vendor/meari",
+      "when": "28분 전"
+    },
+    {
+      "repo": "meari",
+      "url": "https://github.com/modootoday/meari",
+      "msg": "release: drop npm distribution; meari ships through cargo/crates.io only",
+      "when": "2시간 전"
+    },
+    {
+      "repo": "specfold",
+      "url": "https://github.com/modootoday/specfold",
+      "msg": "C162: refuse U+0085, U+2028, U+2029 in titles",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "meari",
+      "url": "https://github.com/modootoday/meari",
+      "msg": "release: publish only crates missing from crates.io so bootstrap-published versions do not fail the tag run",
+      "when": "7시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.22.4",
+      "when": "2일 전"
+    }
+  ],
+  "activity_stamp": "2026-10-31 05:13 KST",
+  "contact-blog": "블로그: 준비 중 (블로그)",
+  "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
+  "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
+  "contact-mail": "문의: support@modoo.today (메일 보내기)",
+  "contact-news": "뉴스레터: 준비 중 (뉴스레터)",
+  "contact-npm": "npm 패키지: ~modootoday (npmjs.com 프로필)",
+  "contact-rubygems": "RubyGems 젬: modootoday (rubygems.org 프로필)",
+  "contact-x": "X: x.com/datalab_tools (X 프로필)",
+  "divider-circuit": "",
+  "divider-flow": "",
+  "divider-pulse": "",
+  "footer": "모두의오늘 마크. © 최원 · 모두의오늘",
+  "hero": "최원 (MYSO-KR). 모두의오늘 대표 · 개발자. 필요한 서비스를 직접 만들고 운영합니다. 프로필 사진과 모두의오늘 마크. 누르면 GitHub @myso-kr 프로필로 이동",
+  "maker": "최원 프로필 사진. 하는 일: 기획, 개발, 출시, 운영을 처음부터 끝까지 혼자. 만드는 것: 창작자 서비스 · 사업자용 플랫폼 · 개발자 CLI. 기술: TypeScript, Rust, Go. 찾는 곳: modoo.today · github.com/myso-kr. 누르면 modoo.today로 이동",
+  "sec-activity": "03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋",
+  "sec-contact": "04 연락 – 문의와 링크",
+  "sec-maker": "01 만드는 사람 – 하는 일과 만드는 것",
+  "sec-oss": "03 개인 오픈소스 – myso-kr 공개 저장소",
+  "sec-services": "02 모두의오늘 – 운영 중인 서비스와 도구",
+  "status": "모든 프로젝트는 계속 발전 중. 모두의오늘 서비스·도구 12개. 문의 support@modoo.today"
+}

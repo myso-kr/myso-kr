@@ -1,0 +1,49 @@
+# myso-kr/myso-kr 저장소의 .github/workflows/build-readme.yml
+name: build-readme
+on:
+  push:
+    branches: [main]
+    paths: ["src/**", "assets/**", "build/**", ".github/workflows/build-readme.yml"]
+  pull_request:
+    paths: ["src/**", "README.md", "assets/**", "build/**", ".github/workflows/build-readme.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: build-readme-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: node build/build.mjs --check
+      - run: python build/lint.py
+      - run: python build/contrast.py
+  build:
+    if: github.event_name != 'pull_request' && github.actor != 'github-actions[bot]' && !contains(github.event.head_commit.message, '[skip ci]')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: node build/build.mjs
+      - run: python build/lint.py
+      - run: python build/contrast.py
+      - name: README.md 만 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && { echo "변경 없음"; exit 0; }
+          git commit -m "chore: README.md 재생성 [skip ci]"
+          git push

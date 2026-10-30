@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+# Node
+node_modules/
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+# secrets & logs
+.env*
+*.log
+# local previews / scratch (profile/assets 와 profile/README.md 는 커밋 대상)
+preview-*.png
+preview-*.html
+preview-*.gif
+preview/
+out/
+tmp/
+scratch/
+tools/

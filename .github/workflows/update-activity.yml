@@ -1,0 +1,35 @@
+# myso-kr/myso-kr 저장소의 .github/workflows/update-activity.yml
+name: update-activity
+on:
+  schedule: [{ cron: "0 */6 * * *" }]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: update-activity
+  cancel-in-progress: false
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python build/gen_activity.py assets
+        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
+      # GITHUB_TOKEN 으로 만든 push 는 다른 워크플로를 깨우지 않으므로, README 빌드·검사를 여기서 이어서 실행
+      - run: node build/build.mjs
+      - run: python build/lint.py
+      - run: python build/contrast.py
+      - name: 활동 SVG (와 바뀐 경우 README) 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-light.svg assets/activity-dark.svg src/data/alts.json README.md
+          git diff --cached --quiet && { echo "변경 없음"; exit 0; }
+          git commit -m "chore: 최근 활동 SVG 갱신 [skip ci]"
+          git push

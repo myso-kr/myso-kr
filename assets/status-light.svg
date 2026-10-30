@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-label="모든 프로젝트는 계속 발전 중. 모두의오늘 서비스·도구 12개. 문의 support@modoo.today"><title>모든 프로젝트는 계속 발전 중. 모두의오늘 서비스·도구 12개. 문의 support@modoo.today</title><style>text{font-family:Pretendard,'Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',-apple-system,'Segoe UI',sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'D2Coding',monospace}  @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style><rect x=".5" y="18.5" width="1199" height="75" rx="37.5" fill="#FFFFFF" stroke="#DDE1E6"/>
+<circle cx="56" cy="56" r="6" fill="#1a7f37"/><circle cx="56" cy="56" r="6" fill="none" stroke="#1a7f37" stroke-width="2"><animate attributeName="r" values="6;16" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="84" y="62" font-size="17" font-weight="700" fill="#1A1A1F">모든 프로젝트는 계속 발전 중</text>
+<path d="M340 44V68" stroke="#DDE1E6" stroke-width="1.5"/>
+<text x="364" y="62" font-size="15" fill="#5B616B">모두의오늘 서비스·도구 12개</text>
+<text x="1152" y="62" text-anchor="end" font-size="15" fill="#b94022" font-weight="600">support@modoo.today</text></svg>
