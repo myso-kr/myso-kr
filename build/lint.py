@@ -28,7 +28,7 @@ for href in re.findall(r'(?:href|src|srcset)="([^"]*)"', live) + re.findall(r'\]
     if not href.strip() or href.strip() in ('#', 'https://...'): err(f'empty link "{href}"')
 # ---- 접근성 ----
 import html as H
-DECOR = {'divider-flow', 'divider-circuit', 'divider-pulse'}
+DECOR = {'divider-flow', 'divider-circuit', 'divider-pulse', 'spacer'}
 for f in svgs:   # 모든 SVG 에 <title>; 의미 있는 SVG 는 role="img" + aria-label, 장식은 aria-hidden
     s = open(f, encoding='utf-8').read(); head = re.search(r'<svg\b[^>]*>', s).group(0)
     name = re.sub(r'-(light|dark)\.svg$', '', os.path.basename(f))

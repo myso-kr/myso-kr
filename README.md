@@ -22,7 +22,7 @@
 서비스별 자세한 소개와 저장소는 <a href="https://github.com/modootoday" title="모두의오늘 GitHub 조직 프로필">modootoday 조직 프로필</a>에 있습니다.
 
 <table width="100%">
-<thead><tr><th scope="col" width="28%" align="left">서비스</th><th scope="col" width="20%" align="left">대상</th><th scope="col" width="52%" align="left">한 줄 소개</th></tr></thead>
+<thead><tr><th scope="col" width="28%" align="left">서비스<br><img src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/spacer-light.svg" alt="" width="1400" height="1"></th><th scope="col" width="20%" align="left">대상<br><img src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/spacer-light.svg" alt="" width="1400" height="1"></th><th scope="col" width="52%" align="left">한 줄 소개<br><img src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/spacer-light.svg" alt="" width="1400" height="1"></th></tr></thead>
 <tbody>
 <tr><td width="28%"><a href="https://modoo.today" title="모두의오늘 웹사이트"><b>모두의오늘</b></a><br><sub>modoo.today</sub></td><td width="20%">창작자</td><td width="52%">브랜드 콘텐츠를 운영하는 통합 AI OS</td></tr>
 <tr><td width="28%"><a href="https://biz.modoo.today" title="모두의오늘 비즈 웹사이트"><b>모두의오늘 비즈</b></a><br><sub>biz.modoo.today</sub></td><td width="20%">사업자·대행사</td><td width="52%">브랜드의 오늘을, 근거가 남는 운영 결과로.</td></tr>
