@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 05:13 KST. 1) .github: docs: rewrite maintainer README (6분 전). 2) .github: style: rename table links to 웹사이트/저장소 (14분 전). 3) .github: style: unify link cell in services table (15분 전). 4) kinekino: chore(deps): use published meari 0.1.0 from crates.io and drop vendor/meari (28분 전). 5) meari: release: drop npm distribution; meari ships through cargo/crates.io only (2시간 전). 6) specfold: C162: refuse U+0085, U+2028, U+2029 in titles (3시간 전). 7) meari: release: publish only crates missing from crates.io so bootstrap-published versions do not fail the tag run (7시간 전). 8) pmcp: chore: release pmcp 0.22.4 (2일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 09:01 KST. 1) jekyll-theme-modootoday: Release 1.2.0 (45분 전). 2) jekyll-theme-modootoday: Raise the showcase per-page CSS budget to 53 KiB (~10%) and show chrome: terminal in the kitchen sink (1시간 전). 3) jekyll-theme-modootoday: Add visual: code on split sections and heroes: first code block in the visual column, optional chrome: terminal (terminal sheet) (1시간 전). 4) kinekino: refactor(host): let the desktop entry hand plain viewing to the Meari watch window (3시간 전). 5) kinekino: fix(player): repair Windows native-proposal-window test imports (3시간 전). 6) .github: docs: rewrite maintainer README (3시간 전). 7) .github: style: rename table links to 웹사이트/저장소 (4시간 전). 8) .github: style: unify link cell in services table (4시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-10-31 05:13 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-10-31 09:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/.github">.github</a>: docs: rewrite maintainer README (6분 전)
-- <a href="https://github.com/modootoday/.github">.github</a>: style: rename table links to 웹사이트/저장소 (14분 전)
-- <a href="https://github.com/modootoday/.github">.github</a>: style: unify link cell in services table (15분 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: chore(deps): use published meari 0.1.0 from crates.io and drop vendor/meari (28분 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: release: drop npm distribution; meari ships through cargo/crates.io only (2시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: C162: refuse U+0085, U+2028, U+2029 in titles (3시간 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: release: publish only crates missing from crates.io so bootstrap-published versions do not fail the tag run (7시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.4 (2일 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.2.0 (45분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Raise the showcase per-page CSS budget to 53 KiB (~10%) and show chrome: terminal in the kitchen sink (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Add visual: code on split sections and heroes: first code block in the visual column, optional chrome: terminal (terminal sheet) (1시간 전)
+- <a href="https://github.com/modootoday/kinekino">kinekino</a>: refactor(host): let the desktop entry hand plain viewing to the Meari watch window (3시간 전)
+- <a href="https://github.com/modootoday/kinekino">kinekino</a>: fix(player): repair Windows native-proposal-window test imports (3시간 전)
+- <a href="https://github.com/modootoday/.github">.github</a>: docs: rewrite maintainer README (3시간 전)
+- <a href="https://github.com/modootoday/.github">.github</a>: style: rename table links to 웹사이트/저장소 (4시간 전)
+- <a href="https://github.com/modootoday/.github">.github</a>: style: unify link cell in services table (4시간 전)
 
 </details>
 
