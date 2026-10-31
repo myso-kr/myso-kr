@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 15:01 KST. 1) jekyll-theme-modootoday: Release 1.2.1 (19분 전). 2) jekyll-theme-modootoday: Always include lists, bleed and terminal with a components list; their sheets stay page-linked (4시간 전). 3) specfold: fix(audit): accept --slug for records (C196) (4시간 전). 4) jekyll-theme-modootoday: Check and style hero.c split only; other hero.c names pass as in 1.1.1 (4시간 전). 5) kinekino: refactor(host): let the desktop entry hand plain viewing to the Meari watch window (9시간 전). 6) kinekino: fix(player): repair Windows native-proposal-window test imports (9시간 전). 7) .github: docs: rewrite maintainer README (9시간 전). 8) .github: style: rename table links to 웹사이트/저장소 (10시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-10-31 21:01 KST. 1) specfold: fix: a spec.toml that does not load: doctor names the line, init --upgrade fails (C235) (57분 전). 2) jekyll-theme-modootoday: Release 1.2.3 (1시간 전). 3) jekyll-theme-modootoday: features: hide the colon separator after a card title (2시간 전). 4) jekyll-theme-modootoday: example: keep the em-dash card separator (2시간 전). 5) meari: docs(site): publish on the default GitHub Pages address (2시간 전). 6) meari: spec: record the public docs site decision (2시간 전). 7) kinekino: docs(site): pin jekyll-theme-modootoday 1.2.2 (inline code wraps on narrow screens) (3시간 전). 8) .github: docs: rewrite maintainer README (15시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-10-31 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-10-31 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.2.1 (19분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Always include lists, bleed and terminal with a components list; their sheets stay page-linked (4시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(audit): accept --slug for records (C196) (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Check and style hero.c split only; other hero.c names pass as in 1.1.1 (4시간 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: refactor(host): let the desktop entry hand plain viewing to the Meari watch window (9시간 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: fix(player): repair Windows native-proposal-window test imports (9시간 전)
-- <a href="https://github.com/modootoday/.github">.github</a>: docs: rewrite maintainer README (9시간 전)
-- <a href="https://github.com/modootoday/.github">.github</a>: style: rename table links to 웹사이트/저장소 (10시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: a spec.toml that does not load: doctor names the line, init --upgrade fails (C235) (57분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: Release 1.2.3 (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: features: hide the colon separator after a card title (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: example: keep the em-dash card separator (2시간 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: docs(site): publish on the default GitHub Pages address (2시간 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: spec: record the public docs site decision (2시간 전)
+- <a href="https://github.com/modootoday/kinekino">kinekino</a>: docs(site): pin jekyll-theme-modootoday 1.2.2 (inline code wraps on narrow screens) (3시간 전)
+- <a href="https://github.com/modootoday/.github">.github</a>: docs: rewrite maintainer README (15시간 전)
 
 </details>
 
