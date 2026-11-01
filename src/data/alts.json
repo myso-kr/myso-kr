@@ -1,47 +1,47 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-01 09:01 KST. 1) specfold: fix: refuse a second successor and point superseded edits at the current one (C246) (7시간 전). 2) kinekino: Add roadmap and milestones plan (8시간 전). 3) meari: docs(site): add Markdown twins, llms.txt and llms-full.txt for every page (8시간 전). 4) meari: docs(site): pin jekyll-theme-modootoday v1.4.1 (8시간 전). 5) jekyll-theme-modootoday: Release 1.4.1 (9시간 전). 6) jekyll-theme-modootoday: Tests: keep test/theme within 12 files (twin packages tests join docs_extra_test.rb) (9시간 전). 7) jekyll-theme-modootoday: Twins and llms-full.txt: export a reference page's packages: table as Markdown (9시간 전). 8) .github: docs: rewrite maintainer README (1일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-01 15:01 KST. 1) jekyll-theme-modootoday: Spec: link five orphan ADRs to the files they govern; archive the finished P1/P2 change doc (1시간 전). 2) jekyll-theme-modootoday: Ruby: 3.3 is the oldest supported Ruby (3.2 is end-of-life); CI adds Ruby 4.0 as an allowed-failure Jekyll 4 entry (1시간 전). 3) jekyll-theme-modootoday: QA scripts: lighthouse.sh stops when the port is in use and no longer leaves its http.server or temp dir behind; build-docs.sh removes its temp config; RELEASING lists i18n/ among packaged files (4시간 전). 4) specfold: fix: refuse a second successor and point superseded edits at the current one (C246) (13시간 전). 5) kinekino: Add roadmap and milestones plan (14시간 전). 6) meari: docs(site): add Markdown twins, llms.txt and llms-full.txt for every page (14시간 전). 7) meari: docs(site): pin jekyll-theme-modootoday v1.4.1 (14시간 전). 8) .github: docs: rewrite maintainer README (1일 전).",
   "activity_items": [
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Spec: link five orphan ADRs to the files they govern; archive the finished P1/P2 change doc",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "Ruby: 3.3 is the oldest supported Ruby (3.2 is end-of-life); CI adds Ruby 4.0 as an allowed-failure Jekyll 4 entry",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "QA scripts: lighthouse.sh stops when the port is in use and no longer leaves its http.server or temp dir behind; build-docs.sh removes its temp config; RELEASING lists i18n/ among packaged files",
+      "when": "4시간 전"
+    },
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
       "msg": "fix: refuse a second successor and point superseded edits at the current one (C246)",
-      "when": "7시간 전"
+      "when": "13시간 전"
     },
     {
       "repo": "kinekino",
       "url": "https://github.com/modootoday/kinekino",
       "msg": "Add roadmap and milestones plan",
-      "when": "8시간 전"
+      "when": "14시간 전"
     },
     {
       "repo": "meari",
       "url": "https://github.com/modootoday/meari",
       "msg": "docs(site): add Markdown twins, llms.txt and llms-full.txt for every page",
-      "when": "8시간 전"
+      "when": "14시간 전"
     },
     {
       "repo": "meari",
       "url": "https://github.com/modootoday/meari",
       "msg": "docs(site): pin jekyll-theme-modootoday v1.4.1",
-      "when": "8시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "Release 1.4.1",
-      "when": "9시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "Tests: keep test/theme within 12 files (twin packages tests join docs_extra_test.rb)",
-      "when": "9시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "Twins and llms-full.txt: export a reference page's packages: table as Markdown",
-      "when": "9시간 전"
+      "when": "14시간 전"
     },
     {
       "repo": ".github",
@@ -50,7 +50,7 @@
       "when": "1일 전"
     }
   ],
-  "activity_stamp": "2026-11-01 09:01 KST",
+  "activity_stamp": "2026-11-01 15:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
