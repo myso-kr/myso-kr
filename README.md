@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-03 09:01 KST. 1) jekyll-theme-modootoday: feat: token bridge, site_css and preload (8분 전). 2) jekyll-theme-modootoday: docs(spec): the 1.0.0 ADR names the current version test path (1시간 전). 3) jekyll-theme-modootoday: test: snapshot and build-revision tests hold on the GitHub Pages stack (1시간 전). 4) devtools-public: test(doc-lifecycle): area-prefixed id samples use one-letter areas (4시간 전). 5) pmcp: chore: release pmcp 0.22.8 (5시간 전). 6) pmcp: fix(git): a returning gitlink takes over the checkout its earlier self left (5시간 전). 7) pmcp: chore: release pmcp 0.22.7 (8시간 전). 8) specfold: release: 0.5.1 (9시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-03 15:02 KST. 1) specfold: release: 0.6.0 (17분 전). 2) specfold: fix: place documents with submodule owners, declare nested projects, supersede drafts, keep ranged hints in range (21분 전). 3) jekyll-theme-modootoday: docs(spec): nested structured-data checks phase in; search.js stays classic in 1.x (23분 전). 4) jekyll-theme-modootoday: feat: JSON-LD FAQPage from c: faq sections, DefinedTerm pages and LearningResource (1시간 전). 5) jekyll-theme-modootoday: feat: search options and the filter section parameter (2시간 전). 6) devtools-public: test(doc-lifecycle): area-prefixed id samples use one-letter areas (10시간 전). 7) pmcp: chore: release pmcp 0.22.8 (11시간 전). 8) pmcp: fix(git): a returning gitlink takes over the checkout its earlier self left (11시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-03 09:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-03 15:02 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat: token bridge, site_css and preload (8분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.0.0 ADR names the current version test path (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test: snapshot and build-revision tests hold on the GitHub Pages stack (1시간 전)
-- <a href="https://github.com/modootoday/devtools-public">devtools-public</a>: test(doc-lifecycle): area-prefixed id samples use one-letter areas (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.8 (5시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a returning gitlink takes over the checkout its earlier self left (5시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.7 (8시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.5.1 (9시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.6.0 (17분 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: place documents with submodule owners, declare nested projects, supersede drafts, keep ranged hints in range (21분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): nested structured-data checks phase in; search.js stays classic in 1.x (23분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat: JSON-LD FAQPage from c: faq sections, DefinedTerm pages and LearningResource (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat: search options and the filter section parameter (2시간 전)
+- <a href="https://github.com/modootoday/devtools-public">devtools-public</a>: test(doc-lifecycle): area-prefixed id samples use one-letter areas (10시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.8 (11시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a returning gitlink takes over the checkout its earlier self left (11시간 전)
 
 </details>
 
