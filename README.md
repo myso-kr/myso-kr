@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-03 15:02 KST. 1) specfold: release: 0.6.0 (17분 전). 2) specfold: fix: place documents with submodule owners, declare nested projects, supersede drafts, keep ranged hints in range (21분 전). 3) jekyll-theme-modootoday: docs(spec): nested structured-data checks phase in; search.js stays classic in 1.x (23분 전). 4) jekyll-theme-modootoday: feat: JSON-LD FAQPage from c: faq sections, DefinedTerm pages and LearningResource (1시간 전). 5) jekyll-theme-modootoday: feat: search options and the filter section parameter (2시간 전). 6) devtools-public: test(doc-lifecycle): area-prefixed id samples use one-letter areas (10시간 전). 7) pmcp: chore: release pmcp 0.22.8 (11시간 전). 8) pmcp: fix(git): a returning gitlink takes over the checkout its earlier self left (11시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-03 21:02 KST. 1) jekyll-theme-modootoday: refactor(docs): move every tool-written docs file under docs/generated/ (15분 전). 2) pmcp: chore: release pmcp 0.22.11 (1시간 전). 3) pmcp: feat(hooks): follow a for loop over literal words (1시간 전). 4) specfold: release: 0.6.2 (2시간 전). 5) specfold: fix: bash test brackets are not wikilinks (2시간 전). 6) specfold: test: keep spawned commands off the user's roots.toml, home and config (2시간 전). 7) jekyll-theme-modootoday: refactor: regroup the directories at the 12-file limit (2시간 전). 8) jekyll-theme-modootoday: test(layout): count .txt data as data, not code, and retire its LONG_OK entry (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-03 15:02 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-03 21:02 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.6.0 (17분 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: place documents with submodule owners, declare nested projects, supersede drafts, keep ranged hints in range (21분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): nested structured-data checks phase in; search.js stays classic in 1.x (23분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat: JSON-LD FAQPage from c: faq sections, DefinedTerm pages and LearningResource (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat: search options and the filter section parameter (2시간 전)
-- <a href="https://github.com/modootoday/devtools-public">devtools-public</a>: test(doc-lifecycle): area-prefixed id samples use one-letter areas (10시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.8 (11시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a returning gitlink takes over the checkout its earlier self left (11시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(docs): move every tool-written docs file under docs/generated/ (15분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.11 (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(hooks): follow a for loop over literal words (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.6.2 (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: bash test brackets are not wikilinks (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: test: keep spawned commands off the user's roots.toml, home and config (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor: regroup the directories at the 12-file limit (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(layout): count .txt data as data, not code, and retire its LONG_OK entry (2시간 전)
 
 </details>
 
