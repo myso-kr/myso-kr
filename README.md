@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-03 21:02 KST. 1) jekyll-theme-modootoday: refactor(docs): move every tool-written docs file under docs/generated/ (15분 전). 2) pmcp: chore: release pmcp 0.22.11 (1시간 전). 3) pmcp: feat(hooks): follow a for loop over literal words (1시간 전). 4) specfold: release: 0.6.2 (2시간 전). 5) specfold: fix: bash test brackets are not wikilinks (2시간 전). 6) specfold: test: keep spawned commands off the user's roots.toml, home and config (2시간 전). 7) jekyll-theme-modootoday: refactor: regroup the directories at the 12-file limit (2시간 전). 8) jekyll-theme-modootoday: test(layout): count .txt data as data, not code, and retire its LONG_OK entry (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 03:01 KST. 1) specfold: feat(types): a type keeps its own directory, and documents can be numbered (4분 전). 2) pmcp: chore: release pmcp 0.22.12 (1시간 전). 3) pmcp: fix(project): a rule glob under an uninitialised submodule is not dead (1시간 전). 4) jekyll-theme-modootoday: fix(starters): copy no interface catalog; site catalogs keep only their changes (1시간 전). 5) specfold: feat(sync): spec sync visibility writes the submodule visibility manifest (1시간 전). 6) specfold: refactor: the six functions near the line limit split at their phases (2시간 전). 7) jekyll-theme-modootoday: docs(starters): describe the starter sites, with the ADR (2시간 전). 8) jekyll-theme-modootoday: feat(starters): split example/ into the docs, blog and landing starters (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-03 21:02 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-04 03:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(docs): move every tool-written docs file under docs/generated/ (15분 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.11 (1시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(hooks): follow a for loop over literal words (1시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.6.2 (2시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: bash test brackets are not wikilinks (2시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: test: keep spawned commands off the user's roots.toml, home and config (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor: regroup the directories at the 12-file limit (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(layout): count .txt data as data, not code, and retire its LONG_OK entry (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(types): a type keeps its own directory, and documents can be numbered (4분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.12 (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(project): a rule glob under an uninitialised submodule is not dead (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(starters): copy no interface catalog; site catalogs keep only their changes (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(sync): spec sync visibility writes the submodule visibility manifest (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: refactor: the six functions near the line limit split at their phases (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(starters): describe the starter sites, with the ADR (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): split example/ into the docs, blog and landing starters (2시간 전)
 
 </details>
 

@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-03 21:02 KST. 1) jekyll-theme-modootoday: refactor(docs): move every tool-written docs file under docs/generated/ (15분 전). 2) pmcp: chore: release pmcp 0.22.11 (1시간 전). 3) pmcp: feat(hooks): follow a for loop over literal words (1시간 전). 4) specfold: release: 0.6.2 (2시간 전). 5) specfold: fix: bash test brackets are not wikilinks (2시간 전). 6) specfold: test: keep spawned commands off the user's roots.toml, home and config (2시간 전). 7) jekyll-theme-modootoday: refactor: regroup the directories at the 12-file limit (2시간 전). 8) jekyll-theme-modootoday: test(layout): count .txt data as data, not code, and retire its LONG_OK entry (2시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 03:01 KST. 1) specfold: feat(types): a type keeps its own directory, and documents can be numbered (4분 전). 2) pmcp: chore: release pmcp 0.22.12 (1시간 전). 3) pmcp: fix(project): a rule glob under an uninitialised submodule is not dead (1시간 전). 4) jekyll-theme-modootoday: fix(starters): copy no interface catalog; site catalogs keep only their changes (1시간 전). 5) specfold: feat(sync): spec sync visibility writes the submodule visibility manifest (1시간 전). 6) specfold: refactor: the six functions near the line limit split at their phases (2시간 전). 7) jekyll-theme-modootoday: docs(starters): describe the starter sites, with the ADR (2시간 전). 8) jekyll-theme-modootoday: feat(starters): split example/ into the docs, blog and landing starters (2시간 전).",
   "activity_items": [
     {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "refactor(docs): move every tool-written docs file under docs/generated/",
-      "when": "15분 전"
+      "repo": "specfold",
+      "url": "https://github.com/modootoday/specfold",
+      "msg": "feat(types): a type keeps its own directory, and documents can be numbered",
+      "when": "4분 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.22.11",
+      "msg": "chore: release pmcp 0.22.12",
       "when": "1시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(hooks): follow a for loop over literal words",
+      "msg": "fix(project): a rule glob under an uninitialised submodule is not dead",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(starters): copy no interface catalog; site catalogs keep only their changes",
       "when": "1시간 전"
     },
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
-      "msg": "release: 0.6.2",
-      "when": "2시간 전"
+      "msg": "feat(sync): spec sync visibility writes the submodule visibility manifest",
+      "when": "1시간 전"
     },
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
-      "msg": "fix: bash test brackets are not wikilinks",
-      "when": "2시간 전"
-    },
-    {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "test: keep spawned commands off the user's roots.toml, home and config",
+      "msg": "refactor: the six functions near the line limit split at their phases",
       "when": "2시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "refactor: regroup the directories at the 12-file limit",
+      "msg": "docs(starters): describe the starter sites, with the ADR",
       "when": "2시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "test(layout): count .txt data as data, not code, and retire its LONG_OK entry",
+      "msg": "feat(starters): split example/ into the docs, blog and landing starters",
       "when": "2시간 전"
     }
   ],
-  "activity_stamp": "2026-11-03 21:02 KST",
+  "activity_stamp": "2026-11-04 03:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
