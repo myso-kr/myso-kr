@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 15:01 KST. 1) jekyll-theme-modootoday: feat(content): callouts, quotes and figures in the flat style (4시간 전). 2) jekyll-theme-modootoday: docs(components): drop the repeated split paragraph (4시간 전). 3) jekyll-theme-modootoday: perf(table): load the stacked-table labels only where a variant is used (5시간 전). 4) specfold: release: 0.7.1 (7시간 전). 5) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (7시간 전). 6) specfold: release: 0.7.0 (11시간 전). 7) pmcp: chore: release pmcp 0.22.12 (13시간 전). 8) pmcp: fix(project): a rule glob under an uninitialised submodule is not dead (13시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 21:01 KST. 1) pmcp: chore: release pmcp 0.22.13 (16분 전). 2) pmcp: feat(git): pmcp git affected prints the members a delta touches (29분 전). 3) pmcp: chore(scripts): compare git affected with a project's own selector (29분 전). 4) jekyll-theme-modootoday: docs: how 1.5 pages load the theme, imports behind a CDN, shadowed core (34분 전). 5) jekyll-theme-modootoday: refactor(js): theme scripts become ES modules with init(root) (34분 전). 6) jekyll-theme-modootoday: perf(search): import the header search on first use (34분 전). 7) specfold: release: 0.7.1 (13시간 전). 8) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (13시간 전).",
   "activity_items": [
     {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "feat(content): callouts, quotes and figures in the flat style",
-      "when": "4시간 전"
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.22.13",
+      "when": "16분 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "feat(git): pmcp git affected prints the members a delta touches",
+      "when": "29분 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore(scripts): compare git affected with a project's own selector",
+      "when": "29분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(components): drop the repeated split paragraph",
-      "when": "4시간 전"
+      "msg": "docs: how 1.5 pages load the theme, imports behind a CDN, shadowed core",
+      "when": "34분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "perf(table): load the stacked-table labels only where a variant is used",
-      "when": "5시간 전"
+      "msg": "refactor(js): theme scripts become ES modules with init(root)",
+      "when": "34분 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "perf(search): import the header search on first use",
+      "when": "34분 전"
     },
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
       "msg": "release: 0.7.1",
-      "when": "7시간 전"
+      "when": "13시간 전"
     },
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
       "msg": "fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors",
-      "when": "7시간 전"
-    },
-    {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "release: 0.7.0",
-      "when": "11시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.22.12",
-      "when": "13시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "fix(project): a rule glob under an uninitialised submodule is not dead",
       "when": "13시간 전"
     }
   ],
-  "activity_stamp": "2026-11-04 15:01 KST",
+  "activity_stamp": "2026-11-04 21:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",

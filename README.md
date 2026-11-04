@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 15:01 KST. 1) jekyll-theme-modootoday: feat(content): callouts, quotes and figures in the flat style (4시간 전). 2) jekyll-theme-modootoday: docs(components): drop the repeated split paragraph (4시간 전). 3) jekyll-theme-modootoday: perf(table): load the stacked-table labels only where a variant is used (5시간 전). 4) specfold: release: 0.7.1 (7시간 전). 5) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (7시간 전). 6) specfold: release: 0.7.0 (11시간 전). 7) pmcp: chore: release pmcp 0.22.12 (13시간 전). 8) pmcp: fix(project): a rule glob under an uninitialised submodule is not dead (13시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 21:01 KST. 1) pmcp: chore: release pmcp 0.22.13 (16분 전). 2) pmcp: feat(git): pmcp git affected prints the members a delta touches (29분 전). 3) pmcp: chore(scripts): compare git affected with a project's own selector (29분 전). 4) jekyll-theme-modootoday: docs: how 1.5 pages load the theme, imports behind a CDN, shadowed core (34분 전). 5) jekyll-theme-modootoday: refactor(js): theme scripts become ES modules with init(root) (34분 전). 6) jekyll-theme-modootoday: perf(search): import the header search on first use (34분 전). 7) specfold: release: 0.7.1 (13시간 전). 8) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (13시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-04 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-04 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(content): callouts, quotes and figures in the flat style (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): drop the repeated split paragraph (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: perf(table): load the stacked-table labels only where a variant is used (5시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.1 (7시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (7시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.0 (11시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.12 (13시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(project): a rule glob under an uninitialised submodule is not dead (13시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.13 (16분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(git): pmcp git affected prints the members a delta touches (29분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore(scripts): compare git affected with a project's own selector (29분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: how 1.5 pages load the theme, imports behind a CDN, shadowed core (34분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(js): theme scripts become ES modules with init(root) (34분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: perf(search): import the header search on first use (34분 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.1 (13시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (13시간 전)
 
 </details>
 
