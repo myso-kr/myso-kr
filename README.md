@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 03:01 KST. 1) specfold: feat(types): a type keeps its own directory, and documents can be numbered (4분 전). 2) pmcp: chore: release pmcp 0.22.12 (1시간 전). 3) pmcp: fix(project): a rule glob under an uninitialised submodule is not dead (1시간 전). 4) jekyll-theme-modootoday: fix(starters): copy no interface catalog; site catalogs keep only their changes (1시간 전). 5) specfold: feat(sync): spec sync visibility writes the submodule visibility manifest (1시간 전). 6) specfold: refactor: the six functions near the line limit split at their phases (2시간 전). 7) jekyll-theme-modootoday: docs(starters): describe the starter sites, with the ADR (2시간 전). 8) jekyll-theme-modootoday: feat(starters): split example/ into the docs, blog and landing starters (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-04 09:01 KST. 1) specfold: release: 0.7.1 (1시간 전). 2) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (1시간 전). 3) jekyll-theme-modootoday: feat(code): 14/24 blocks, a 40px title bar and an icon copy button (2시간 전). 4) jekyll-theme-modootoday: feat(doc): 288/45rem/240 doc columns from layout hooks (2시간 전). 5) jekyll-theme-modootoday: feat(header): one 64px row at every width with a menu sheet below 64rem (2시간 전). 6) specfold: release: 0.7.0 (5시간 전). 7) pmcp: chore: release pmcp 0.22.12 (7시간 전). 8) pmcp: fix(project): a rule glob under an uninitialised submodule is not dead (7시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-04 03:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-04 09:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(types): a type keeps its own directory, and documents can be numbered (4분 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.12 (1시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(project): a rule glob under an uninitialised submodule is not dead (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(starters): copy no interface catalog; site catalogs keep only their changes (1시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(sync): spec sync visibility writes the submodule visibility manifest (1시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: refactor: the six functions near the line limit split at their phases (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(starters): describe the starter sites, with the ADR (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): split example/ into the docs, blog and landing starters (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.1 (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(code): 14/24 blocks, a 40px title bar and an icon copy button (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(doc): 288/45rem/240 doc columns from layout hooks (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(header): one 64px row at every width with a menu sheet below 64rem (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.0 (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.22.12 (7시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(project): a rule glob under an uninitialised submodule is not dead (7시간 전)
 
 </details>
 
