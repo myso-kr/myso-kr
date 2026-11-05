@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-05 03:01 KST. 1) jekyll-theme-modootoday: docs(spec): the starter-demo documents name the system audits by their new test/system paths (32분 전). 2) jekyll-theme-modootoday: docs: plain, short descriptions in the reference tables (43분 전). 3) jekyll-theme-modootoday: docs(spec): cite the starter-demo research from the showcase and hosting decisions (43분 전). 4) pmcp: chore: release pmcp 0.24.0 (2시간 전). 5) pmcp: docs(upgrading): from 0.23 to 0.24 (2시간 전). 6) pmcp: feat(lease): skip_always names reasons a bulk job honours; nested bulk runs on the marker (2시간 전). 7) specfold: release: 0.7.1 (19시간 전). 8) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (19시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-05 09:02 KST. 1) jekyll-theme-modootoday: release: 1.5.0 (7분 전). 2) jekyll-theme-modootoday: fix(usability): error pages need no twin, footer columns are not landmarks, the skip link passes the sidebar (54분 전). 3) jekyll-theme-modootoday: fix(chrome): search hints, snippet marks, the doc CTA rule and one disclosure marker (54분 전). 4) pmcp: chore: release pmcp 0.24.1 (5시간 전). 5) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (5시간 전). 6) pmcp: feat(lease): heavy.log and usage records name the variable that carried a lease skip (5시간 전). 7) specfold: release: 0.7.1 (1일 전). 8) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-05 03:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-05 09:02 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the starter-demo documents name the system audits by their new test/system paths (32분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: plain, short descriptions in the reference tables (43분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): cite the starter-demo research from the showcase and hosting decisions (43분 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.0 (2시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: docs(upgrading): from 0.23 to 0.24 (2시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): skip_always names reasons a bulk job honours; nested bulk runs on the marker (2시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.1 (19시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (19시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: release: 1.5.0 (7분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(usability): error pages need no twin, footer columns are not landmarks, the skip link passes the sidebar (54분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(chrome): search hints, snippet marks, the doc CTA rule and one disclosure marker (54분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): heavy.log and usage records name the variable that carried a lease skip (5시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.1 (1일 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (1일 전)
 
 </details>
 

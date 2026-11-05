@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-05 03:01 KST. 1) jekyll-theme-modootoday: docs(spec): the starter-demo documents name the system audits by their new test/system paths (32분 전). 2) jekyll-theme-modootoday: docs: plain, short descriptions in the reference tables (43분 전). 3) jekyll-theme-modootoday: docs(spec): cite the starter-demo research from the showcase and hosting decisions (43분 전). 4) pmcp: chore: release pmcp 0.24.0 (2시간 전). 5) pmcp: docs(upgrading): from 0.23 to 0.24 (2시간 전). 6) pmcp: feat(lease): skip_always names reasons a bulk job honours; nested bulk runs on the marker (2시간 전). 7) specfold: release: 0.7.1 (19시간 전). 8) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (19시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-05 09:02 KST. 1) jekyll-theme-modootoday: release: 1.5.0 (7분 전). 2) jekyll-theme-modootoday: fix(usability): error pages need no twin, footer columns are not landmarks, the skip link passes the sidebar (54분 전). 3) jekyll-theme-modootoday: fix(chrome): search hints, snippet marks, the doc CTA rule and one disclosure marker (54분 전). 4) pmcp: chore: release pmcp 0.24.1 (5시간 전). 5) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (5시간 전). 6) pmcp: feat(lease): heavy.log and usage records name the variable that carried a lease skip (5시간 전). 7) specfold: release: 0.7.1 (1일 전). 8) specfold: fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors (1일 전).",
   "activity_items": [
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(spec): the starter-demo documents name the system audits by their new test/system paths",
-      "when": "32분 전"
+      "msg": "release: 1.5.0",
+      "when": "7분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: plain, short descriptions in the reference tables",
-      "when": "43분 전"
+      "msg": "fix(usability): error pages need no twin, footer columns are not landmarks, the skip link passes the sidebar",
+      "when": "54분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(spec): cite the starter-demo research from the showcase and hosting decisions",
-      "when": "43분 전"
+      "msg": "fix(chrome): search hints, snippet marks, the doc CTA rule and one disclosure marker",
+      "when": "54분 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.24.0",
-      "when": "2시간 전"
+      "msg": "chore: release pmcp 0.24.1",
+      "when": "5시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "docs(upgrading): from 0.23 to 0.24",
-      "when": "2시간 전"
+      "msg": "perf(git): git affected caches source import facts by blob id and skips unneeded work",
+      "when": "5시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(lease): skip_always names reasons a bulk job honours; nested bulk runs on the marker",
-      "when": "2시간 전"
+      "msg": "feat(lease): heavy.log and usage records name the variable that carried a lease skip",
+      "when": "5시간 전"
     },
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
       "msg": "release: 0.7.1",
-      "when": "19시간 전"
+      "when": "1일 전"
     },
     {
       "repo": "specfold",
       "url": "https://github.com/modootoday/specfold",
       "msg": "fix: context at the root, enabled-type hints, JSON lists, required fields, pending successors",
-      "when": "19시간 전"
+      "when": "1일 전"
     }
   ],
-  "activity_stamp": "2026-11-05 03:01 KST",
+  "activity_stamp": "2026-11-05 09:02 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
