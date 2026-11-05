@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-05 21:01 KST. 1) jekyll-theme-modootoday: fix(a11y): every scroll region on a page has its own name (19분 전). 2) jekyll-theme-modootoday: feat(widget): site custom elements with a light-DOM fallback (19분 전). 3) jekyll-theme-modootoday: feat(check): nested structured-data nodes are checked as warnings (27분 전). 4) specfold: release: 0.7.2 (1시간 전). 5) specfold: fix(D1): compile governs once per run, so big changes stay fast (1시간 전). 6) pmcp: chore: release pmcp 0.24.1 (17시간 전). 7) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (17시간 전). 8) pmcp: feat(lease): heavy.log and usage records name the variable that carried a lease skip (17시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-06 03:02 KST. 1) jekyll-theme-modootoday: fix(blog): a list post list keeps the cover ratio so rows do not shift (4시간 전). 2) jekyll-theme-modootoday: docs(components): the Components index shows the cards-4 source (4시간 전). 3) jekyll-theme-modootoday: feat(starters): render the demo overlay and a guarded demo layering step (4시간 전). 4) specfold: release: 0.7.2 (7시간 전). 5) specfold: fix(D1): compile governs once per run, so big changes stay fast (7시간 전). 6) pmcp: chore: release pmcp 0.24.1 (23시간 전). 7) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (23시간 전). 8) pmcp: feat(lease): heavy.log and usage records name the variable that carried a lease skip (23시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-05 21:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-06 03:02 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(a11y): every scroll region on a page has its own name (19분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(widget): site custom elements with a light-DOM fallback (19분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(check): nested structured-data nodes are checked as warnings (27분 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (1시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (1시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (17시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (17시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): heavy.log and usage records name the variable that carried a lease skip (17시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(blog): a list post list keeps the cover ratio so rows do not shift (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the Components index shows the cards-4 source (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): render the demo overlay and a guarded demo layering step (4시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (7시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (7시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (23시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (23시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): heavy.log and usage records name the variable that carried a lease skip (23시간 전)
 
 </details>
 
