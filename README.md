@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-06 09:02 KST. 1) jekyll-theme-modootoday: fix(blog): a list post list keeps the cover ratio so rows do not shift (10시간 전). 2) jekyll-theme-modootoday: docs(components): the Components index shows the cards-4 source (10시간 전). 3) jekyll-theme-modootoday: feat(starters): render the demo overlay and a guarded demo layering step (10시간 전). 4) specfold: release: 0.7.2 (13시간 전). 5) specfold: fix(D1): compile governs once per run, so big changes stay fast (13시간 전). 6) pmcp: chore: release pmcp 0.24.1 (1일 전). 7) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (1일 전). 8) pmcp: feat(lease): heavy.log and usage records name the variable that carried a lease skip (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-06 15:01 KST. 1) meari: Render the crates page with the standard docs layout. (2시간 전). 2) meari: Add Meari product-token icon and favicons to the docs site. (2시간 전). 3) jekyll-theme-modootoday: fix(blog): a list post list keeps the cover ratio so rows do not shift (16시간 전). 4) jekyll-theme-modootoday: docs(components): the Components index shows the cards-4 source (16시간 전). 5) jekyll-theme-modootoday: feat(starters): render the demo overlay and a guarded demo layering step (16시간 전). 6) specfold: release: 0.7.2 (19시간 전). 7) specfold: fix(D1): compile governs once per run, so big changes stay fast (19시간 전). 8) pmcp: chore: release pmcp 0.24.1 (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-06 09:02 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-06 15:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(blog): a list post list keeps the cover ratio so rows do not shift (10시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the Components index shows the cards-4 source (10시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): render the demo overlay and a guarded demo layering step (10시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (13시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (13시간 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: Render the crates page with the standard docs layout. (2시간 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: Add Meari product-token icon and favicons to the docs site. (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(blog): a list post list keeps the cover ratio so rows do not shift (16시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the Components index shows the cards-4 source (16시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(starters): render the demo overlay and a guarded demo layering step (16시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (19시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (19시간 전)
 - <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (1일 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (1일 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): heavy.log and usage records name the variable that carried a lease skip (1일 전)
 
 </details>
 
