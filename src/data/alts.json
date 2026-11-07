@@ -1,17 +1,17 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-07 03:03 KST. 1) meari: Render the crates page with the standard docs layout. (14시간 전). 2) meari: Add Meari product-token icon and favicons to the docs site. (14시간 전). 3) jekyll-theme-modootoday: fix(blog): a list post list keeps the cover ratio so rows do not shift (1일 전). 4) jekyll-theme-modootoday: docs(components): the Components index shows the cards-4 source (1일 전). 5) jekyll-theme-modootoday: feat(starters): render the demo overlay and a guarded demo layering step (1일 전). 6) specfold: release: 0.7.2 (1일 전). 7) specfold: fix(D1): compile governs once per run, so big changes stay fast (1일 전). 8) pmcp: chore: release pmcp 0.24.1 (1일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-07 09:02 KST. 1) meari: Render the crates page with the standard docs layout. (20시간 전). 2) meari: Add Meari product-token icon and favicons to the docs site. (20시간 전). 3) jekyll-theme-modootoday: fix(blog): a list post list keeps the cover ratio so rows do not shift (1일 전). 4) jekyll-theme-modootoday: docs(components): the Components index shows the cards-4 source (1일 전). 5) jekyll-theme-modootoday: feat(starters): render the demo overlay and a guarded demo layering step (1일 전). 6) specfold: release: 0.7.2 (1일 전). 7) specfold: fix(D1): compile governs once per run, so big changes stay fast (1일 전). 8) pmcp: chore: release pmcp 0.24.1 (2일 전).",
   "activity_items": [
     {
       "repo": "meari",
       "url": "https://github.com/modootoday/meari",
       "msg": "Render the crates page with the standard docs layout.",
-      "when": "14시간 전"
+      "when": "20시간 전"
     },
     {
       "repo": "meari",
       "url": "https://github.com/modootoday/meari",
       "msg": "Add Meari product-token icon and favicons to the docs site.",
-      "when": "14시간 전"
+      "when": "20시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
@@ -47,10 +47,10 @@
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.24.1",
-      "when": "1일 전"
+      "when": "2일 전"
     }
   ],
-  "activity_stamp": "2026-11-07 03:03 KST",
+  "activity_stamp": "2026-11-07 09:02 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
