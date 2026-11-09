@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-09 21:02 KST. 1) jekyll-theme-modootoday: release: 1.6.0 (9분 전). 2) jekyll-theme-modootoday: test(docs): audit every component example at element level (5시간 전). 3) jekyll-theme-modootoday: docs(components): the front matter each example shows is valid YAML (5시간 전). 4) meari: chore: record patched shell source provenance (1일 전). 5) specfold: release: 0.7.2 (4일 전). 6) specfold: fix(D1): compile governs once per run, so big changes stay fast (4일 전). 7) pmcp: chore: release pmcp 0.24.1 (4일 전). 8) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (4일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 03:01 KST. 1) jekyll-theme-modootoday: test: theme-default probes built on the docs starter state csp: false, now that the starter opts into strict (52분 전). 2) jekyll-theme-modootoday: chore(starters): the docs starter loads theme scripts as files (csp: strict) (1시간 전). 3) jekyll-theme-modootoday-docs-starter: feat: load theme scripts as files so the site works under a strict CSP (1시간 전). 4) jekyll-theme-modootoday: fix(qa): the starter demo audit gives its page lists the shape the type budgets read (2시간 전). 5) jekyll-theme-modootoday-landing-starter: fix: the demo states its own url and baseurl (2시간 전). 6) jekyll-theme-modootoday-blog-starter: fix: the demo states its own url and baseurl (2시간 전). 7) jekyll-theme-modootoday-docs-starter: fix: the demo states its own url and baseurl (2시간 전). 8) pmcp: chore: release pmcp 0.25.0 (2시간 전).",
   "activity_items": [
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "release: 1.6.0",
-      "when": "9분 전"
+      "msg": "test: theme-default probes built on the docs starter state csp: false, now that the starter opts into strict",
+      "when": "52분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "test(docs): audit every component example at element level",
-      "when": "5시간 전"
+      "msg": "chore(starters): the docs starter loads theme scripts as files (csp: strict)",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday-docs-starter",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday-docs-starter",
+      "msg": "feat: load theme scripts as files so the site works under a strict CSP",
+      "when": "1시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(components): the front matter each example shows is valid YAML",
-      "when": "5시간 전"
+      "msg": "fix(qa): the starter demo audit gives its page lists the shape the type budgets read",
+      "when": "2시간 전"
     },
     {
-      "repo": "meari",
-      "url": "https://github.com/modootoday/meari",
-      "msg": "chore: record patched shell source provenance",
-      "when": "1일 전"
+      "repo": "jekyll-theme-modootoday-landing-starter",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday-landing-starter",
+      "msg": "fix: the demo states its own url and baseurl",
+      "when": "2시간 전"
     },
     {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "release: 0.7.2",
-      "when": "4일 전"
+      "repo": "jekyll-theme-modootoday-blog-starter",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday-blog-starter",
+      "msg": "fix: the demo states its own url and baseurl",
+      "when": "2시간 전"
     },
     {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "fix(D1): compile governs once per run, so big changes stay fast",
-      "when": "4일 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.24.1",
-      "when": "4일 전"
+      "repo": "jekyll-theme-modootoday-docs-starter",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday-docs-starter",
+      "msg": "fix: the demo states its own url and baseurl",
+      "when": "2시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "perf(git): git affected caches source import facts by blob id and skips unneeded work",
-      "when": "4일 전"
+      "msg": "chore: release pmcp 0.25.0",
+      "when": "2시간 전"
     }
   ],
-  "activity_stamp": "2026-11-09 21:02 KST",
+  "activity_stamp": "2026-11-10 03:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",

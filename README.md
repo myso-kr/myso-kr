@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-09 21:02 KST. 1) jekyll-theme-modootoday: release: 1.6.0 (9분 전). 2) jekyll-theme-modootoday: test(docs): audit every component example at element level (5시간 전). 3) jekyll-theme-modootoday: docs(components): the front matter each example shows is valid YAML (5시간 전). 4) meari: chore: record patched shell source provenance (1일 전). 5) specfold: release: 0.7.2 (4일 전). 6) specfold: fix(D1): compile governs once per run, so big changes stay fast (4일 전). 7) pmcp: chore: release pmcp 0.24.1 (4일 전). 8) pmcp: perf(git): git affected caches source import facts by blob id and skips unneeded work (4일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 03:01 KST. 1) jekyll-theme-modootoday: test: theme-default probes built on the docs starter state csp: false, now that the starter opts into strict (52분 전). 2) jekyll-theme-modootoday: chore(starters): the docs starter loads theme scripts as files (csp: strict) (1시간 전). 3) jekyll-theme-modootoday-docs-starter: feat: load theme scripts as files so the site works under a strict CSP (1시간 전). 4) jekyll-theme-modootoday: fix(qa): the starter demo audit gives its page lists the shape the type budgets read (2시간 전). 5) jekyll-theme-modootoday-landing-starter: fix: the demo states its own url and baseurl (2시간 전). 6) jekyll-theme-modootoday-blog-starter: fix: the demo states its own url and baseurl (2시간 전). 7) jekyll-theme-modootoday-docs-starter: fix: the demo states its own url and baseurl (2시간 전). 8) pmcp: chore: release pmcp 0.25.0 (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-09 21:02 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-10 03:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: release: 1.6.0 (9분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(docs): audit every component example at element level (5시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the front matter each example shows is valid YAML (5시간 전)
-- <a href="https://github.com/modootoday/meari">meari</a>: chore: record patched shell source provenance (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.7.2 (4일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): compile governs once per run, so big changes stay fast (4일 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.24.1 (4일 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: perf(git): git affected caches source import facts by blob id and skips unneeded work (4일 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test: theme-default probes built on the docs starter state csp: false, now that the starter opts into strict (52분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): the docs starter loads theme scripts as files (csp: strict) (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday-docs-starter">jekyll-theme-modootoday-docs-starter</a>: feat: load theme scripts as files so the site works under a strict CSP (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(qa): the starter demo audit gives its page lists the shape the type budgets read (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday-landing-starter">jekyll-theme-modootoday-landing-starter</a>: fix: the demo states its own url and baseurl (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday-blog-starter">jekyll-theme-modootoday-blog-starter</a>: fix: the demo states its own url and baseurl (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday-docs-starter">jekyll-theme-modootoday-docs-starter</a>: fix: the demo states its own url and baseurl (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.25.0 (2시간 전)
 
 </details>
 
