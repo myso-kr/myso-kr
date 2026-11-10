@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 21:01 KST. 1) pmcp: chore: release pmcp 0.26.1 (11분 전). 2) arks: Close S6 symmetry e2e and S7/S_final currency. (22분 전). 3) arks: Close S4 interactive TUI as Specfold defer and S5 secrets-block. (28분 전). 4) arks: Claim dumb HTTP push deletes via WebDAV DELETE (S3). (32분 전). 5) pmcp: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (2시간 전). 6) jekyll-theme-modootoday: test(audit): run axe only after the restored 1024px reaches the page scripts (2시간 전). 7) jekyll-theme-modootoday: chore(starters): set the theme's mark as each starter's site icon (8시간 전). 8) jekyll-theme-modootoday-landing-starter: feat: link the theme's mark as the site icon (8시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 03:01 KST. 1) arks: Fix clippy collapsible_match in claimed filter object:type gate. (4분 전). 2) arks: Fix rustfmt for G-ladder slices so CI lint passes. (6분 전). 3) svgif: Mark H-024 done (7분 전). 4) svgif: Mark H-025 and H-029 done (7분 전). 5) arks: Execute G-ladder G1–G_final: bundle-uri, LFS locks, filters, forge recipes, one G19. (8분 전). 6) svgif: docs: record Studio as a composition editor (9분 전). 7) jekyll-theme-modootoday: docs(spec): the On this page list marks the section being read (14분 전). 8) jekyll-theme-modootoday: fix(check): the offline page's home link is not a demo link (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-10 21:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-11 03:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.26.1 (11분 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Close S6 symmetry e2e and S7/S_final currency. (22분 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Close S4 interactive TUI as Specfold defer and S5 secrets-block. (28분 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Claim dumb HTTP push deletes via WebDAV DELETE (S3). (32분 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(audit): run axe only after the restored 1024px reaches the page scripts (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): set the theme's mark as each starter's site icon (8시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday-landing-starter">jekyll-theme-modootoday-landing-starter</a>: feat: link the theme's mark as the site icon (8시간 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Fix clippy collapsible_match in claimed filter object:type gate. (4분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Fix rustfmt for G-ladder slices so CI lint passes. (6분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Mark H-024 done (7분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Mark H-025 and H-029 done (7분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Execute G-ladder G1–G_final: bundle-uri, LFS locks, filters, forge recipes, one G19. (8분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: record Studio as a composition editor (9분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the On this page list marks the section being read (14분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(check): the offline page's home link is not a demo link (2시간 전)
 
 </details>
 

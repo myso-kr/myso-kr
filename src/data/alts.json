@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 21:01 KST. 1) pmcp: chore: release pmcp 0.26.1 (11분 전). 2) arks: Close S6 symmetry e2e and S7/S_final currency. (22분 전). 3) arks: Close S4 interactive TUI as Specfold defer and S5 secrets-block. (28분 전). 4) arks: Claim dumb HTTP push deletes via WebDAV DELETE (S3). (32분 전). 5) pmcp: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (2시간 전). 6) jekyll-theme-modootoday: test(audit): run axe only after the restored 1024px reaches the page scripts (2시간 전). 7) jekyll-theme-modootoday: chore(starters): set the theme's mark as each starter's site icon (8시간 전). 8) jekyll-theme-modootoday-landing-starter: feat: link the theme's mark as the site icon (8시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 03:01 KST. 1) arks: Fix clippy collapsible_match in claimed filter object:type gate. (4분 전). 2) arks: Fix rustfmt for G-ladder slices so CI lint passes. (6분 전). 3) svgif: Mark H-024 done (7분 전). 4) svgif: Mark H-025 and H-029 done (7분 전). 5) arks: Execute G-ladder G1–G_final: bundle-uri, LFS locks, filters, forge recipes, one G19. (8분 전). 6) svgif: docs: record Studio as a composition editor (9분 전). 7) jekyll-theme-modootoday: docs(spec): the On this page list marks the section being read (14분 전). 8) jekyll-theme-modootoday: fix(check): the offline page's home link is not a demo link (2시간 전).",
   "activity_items": [
     {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.26.1",
-      "when": "11분 전"
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "Fix clippy collapsible_match in claimed filter object:type gate.",
+      "when": "4분 전"
     },
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
-      "msg": "Close S6 symmetry e2e and S7/S_final currency.",
-      "when": "22분 전"
+      "msg": "Fix rustfmt for G-ladder slices so CI lint passes.",
+      "when": "6분 전"
+    },
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "Mark H-024 done",
+      "when": "7분 전"
+    },
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "Mark H-025 and H-029 done",
+      "when": "7분 전"
     },
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
-      "msg": "Close S4 interactive TUI as Specfold defer and S5 secrets-block.",
-      "when": "28분 전"
+      "msg": "Execute G-ladder G1–G_final: bundle-uri, LFS locks, filters, forge recipes, one G19.",
+      "when": "8분 전"
     },
     {
-      "repo": "arks",
-      "url": "https://github.com/modootoday/arks",
-      "msg": "Claim dumb HTTP push deletes via WebDAV DELETE (S3).",
-      "when": "32분 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0",
-      "when": "2시간 전"
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "docs: record Studio as a composition editor",
+      "when": "9분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "test(audit): run axe only after the restored 1024px reaches the page scripts",
-      "when": "2시간 전"
+      "msg": "docs(spec): the On this page list marks the section being read",
+      "when": "14분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "chore(starters): set the theme's mark as each starter's site icon",
-      "when": "8시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday-landing-starter",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday-landing-starter",
-      "msg": "feat: link the theme's mark as the site icon",
-      "when": "8시간 전"
+      "msg": "fix(check): the offline page's home link is not a demo link",
+      "when": "2시간 전"
     }
   ],
-  "activity_stamp": "2026-11-10 21:01 KST",
+  "activity_stamp": "2026-11-11 03:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
