@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 15:01 KST. 1) arks: Align PF5 8/8 carrying cites to remasure 20261110142500. (1시간 전). 2) arks: Point matrix-g19 Pf5 Done at 79fc9bf 8/8 remasure. (1시간 전). 3) arks: Canonize PF5 8/8 from server pack-reuse remasure. (1시간 전). 4) jekyll-theme-modootoday: chore(starters): move the starters to their READMEs with the PWA commands (4시간 전). 5) jekyll-theme-modootoday-landing-starter: docs: list the modootoday.pwa check and the --pwa stub writer (4시간 전). 6) jekyll-theme-modootoday-blog-starter: docs: list the modootoday.pwa check and the --pwa stub writer (4시간 전). 7) jekyll-theme-modootoday-docs-starter: docs: list the modootoday.pwa check and the --pwa stub writer (4시간 전). 8) specfold: release: 0.8.1 (4시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 21:01 KST. 1) pmcp: chore: release pmcp 0.26.1 (11분 전). 2) arks: Close S6 symmetry e2e and S7/S_final currency. (22분 전). 3) arks: Close S4 interactive TUI as Specfold defer and S5 secrets-block. (28분 전). 4) arks: Claim dumb HTTP push deletes via WebDAV DELETE (S3). (32분 전). 5) pmcp: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (2시간 전). 6) jekyll-theme-modootoday: test(audit): run axe only after the restored 1024px reaches the page scripts (2시간 전). 7) jekyll-theme-modootoday: chore(starters): set the theme's mark as each starter's site icon (8시간 전). 8) jekyll-theme-modootoday-landing-starter: feat: link the theme's mark as the site icon (8시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-10 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-10 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/arks">arks</a>: Align PF5 8/8 carrying cites to remasure 20261110142500. (1시간 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Point matrix-g19 Pf5 Done at 79fc9bf 8/8 remasure. (1시간 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Canonize PF5 8/8 from server pack-reuse remasure. (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): move the starters to their READMEs with the PWA commands (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday-landing-starter">jekyll-theme-modootoday-landing-starter</a>: docs: list the modootoday.pwa check and the --pwa stub writer (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday-blog-starter">jekyll-theme-modootoday-blog-starter</a>: docs: list the modootoday.pwa check and the --pwa stub writer (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday-docs-starter">jekyll-theme-modootoday-docs-starter</a>: docs: list the modootoday.pwa check and the --pwa stub writer (4시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.1 (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.26.1 (11분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Close S6 symmetry e2e and S7/S_final currency. (22분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Close S4 interactive TUI as Specfold defer and S5 secrets-block. (28분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Claim dumb HTTP push deletes via WebDAV DELETE (S3). (32분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(lease): a caller's deadline no longer turns pmcp heavy's answer into 0 (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(audit): run axe only after the restored 1024px reaches the page scripts (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(starters): set the theme's mark as each starter's site icon (8시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday-landing-starter">jekyll-theme-modootoday-landing-starter</a>: feat: link the theme's mark as the site icon (8시간 전)
 
 </details>
 
