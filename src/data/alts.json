@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 03:01 KST. 1) jekyll-theme-modootoday: test: theme-default probes built on the docs starter state csp: false, now that the starter opts into strict (52분 전). 2) jekyll-theme-modootoday: chore(starters): the docs starter loads theme scripts as files (csp: strict) (1시간 전). 3) jekyll-theme-modootoday-docs-starter: feat: load theme scripts as files so the site works under a strict CSP (1시간 전). 4) jekyll-theme-modootoday: fix(qa): the starter demo audit gives its page lists the shape the type budgets read (2시간 전). 5) jekyll-theme-modootoday-landing-starter: fix: the demo states its own url and baseurl (2시간 전). 6) jekyll-theme-modootoday-blog-starter: fix: the demo states its own url and baseurl (2시간 전). 7) jekyll-theme-modootoday-docs-starter: fix: the demo states its own url and baseurl (2시간 전). 8) pmcp: chore: release pmcp 0.25.0 (2시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-10 09:01 KST. 1) arks: Add GitHub Actions Cross-OS, OIDC release, and package-channel research. (2분 전). 2) arks: Redesign public docs as native-CLI manual with clean-room timing charts. (3분 전). 3) arks: Rewrite README and docs for developers trying arks. (16분 전). 4) jekyll-theme-modootoday: docs(spec): record the docs decisions after the 1.7 cleanup (adr 20261109225554) (1시간 전). 5) jekyll-theme-modootoday: fix(docs): print badge prefixes as names on the generated Command line and Changelog pages (1시간 전). 6) jekyll-theme-modootoday: test(docs): check the docs consistency rules and the registry doctests on every push (2시간 전). 7) pmcp: feat(git): a change to the root workspaces globs selects the members it adds, not ALL (2시간 전). 8) pmcp: docs: rebuild the guide pages for the governance changes (2시간 전).",
   "activity_items": [
     {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "test: theme-default probes built on the docs starter state csp: false, now that the starter opts into strict",
-      "when": "52분 전"
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "Add GitHub Actions Cross-OS, OIDC release, and package-channel research.",
+      "when": "2분 전"
+    },
+    {
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "Redesign public docs as native-CLI manual with clean-room timing charts.",
+      "when": "3분 전"
+    },
+    {
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "Rewrite README and docs for developers trying arks.",
+      "when": "16분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "chore(starters): the docs starter loads theme scripts as files (csp: strict)",
+      "msg": "docs(spec): record the docs decisions after the 1.7 cleanup (adr 20261109225554)",
       "when": "1시간 전"
     },
     {
-      "repo": "jekyll-theme-modootoday-docs-starter",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday-docs-starter",
-      "msg": "feat: load theme scripts as files so the site works under a strict CSP",
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(docs): print badge prefixes as names on the generated Command line and Changelog pages",
       "when": "1시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "fix(qa): the starter demo audit gives its page lists the shape the type budgets read",
-      "when": "2시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday-landing-starter",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday-landing-starter",
-      "msg": "fix: the demo states its own url and baseurl",
-      "when": "2시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday-blog-starter",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday-blog-starter",
-      "msg": "fix: the demo states its own url and baseurl",
-      "when": "2시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday-docs-starter",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday-docs-starter",
-      "msg": "fix: the demo states its own url and baseurl",
+      "msg": "test(docs): check the docs consistency rules and the registry doctests on every push",
       "when": "2시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.25.0",
+      "msg": "feat(git): a change to the root workspaces globs selects the members it adds, not ALL",
+      "when": "2시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "docs: rebuild the guide pages for the governance changes",
       "when": "2시간 전"
     }
   ],
-  "activity_stamp": "2026-11-10 03:01 KST",
+  "activity_stamp": "2026-11-10 09:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
