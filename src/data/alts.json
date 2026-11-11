@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 21:01 KST. 1) svgif: chore: record H-154 done and assign binding packages (4시간 전). 2) svgif: feat: bind preset parameters by kind (4시간 전). 3) svgif: chore: redesign H-154 as semantic parameter binding (5시간 전). 4) jekyll-theme-modootoday: fix(header): the first frames show the whole header when the stylesheets are cached (6시간 전). 5) jekyll-theme-modootoday: docs: turn the docs site worker back on after the release drill (7시간 전). 6) jekyll-theme-modootoday: docs: switch the docs site worker to its kill switch for the release drill (8시간 전). 7) jekyll-theme-modootoday-landing-starter: ci: rebuild the site when a release is published (10시간 전). 8) jekyll-theme-modootoday-docs-starter: ci: rebuild the site when a release is published (10시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 03:01 KST. 1) jekyll-theme-modootoday: feat(content): heading anchor links with no script (1시간 전). 2) svgif: chore: record H-154 done and assign binding packages (10시간 전). 3) svgif: feat: bind preset parameters by kind (10시간 전). 4) svgif: chore: redesign H-154 as semantic parameter binding (11시간 전). 5) jekyll-theme-modootoday: fix(header): the first frames show the whole header when the stylesheets are cached (12시간 전). 6) jekyll-theme-modootoday: docs: turn the docs site worker back on after the release drill (13시간 전). 7) jekyll-theme-modootoday-landing-starter: ci: rebuild the site when a release is published (16시간 전). 8) jekyll-theme-modootoday-docs-starter: ci: rebuild the site when a release is published (16시간 전).",
   "activity_items": [
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "feat(content): heading anchor links with no script",
+      "when": "1시간 전"
+    },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "chore: record H-154 done and assign binding packages",
-      "when": "4시간 전"
+      "when": "10시간 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "feat: bind preset parameters by kind",
-      "when": "4시간 전"
+      "when": "10시간 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "chore: redesign H-154 as semantic parameter binding",
-      "when": "5시간 전"
+      "when": "11시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
       "msg": "fix(header): the first frames show the whole header when the stylesheets are cached",
-      "when": "6시간 전"
+      "when": "12시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
       "msg": "docs: turn the docs site worker back on after the release drill",
-      "when": "7시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: switch the docs site worker to its kill switch for the release drill",
-      "when": "8시간 전"
+      "when": "13시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday-landing-starter",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday-landing-starter",
       "msg": "ci: rebuild the site when a release is published",
-      "when": "10시간 전"
+      "when": "16시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday-docs-starter",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday-docs-starter",
       "msg": "ci: rebuild the site when a release is published",
-      "when": "10시간 전"
+      "when": "16시간 전"
     }
   ],
-  "activity_stamp": "2026-11-11 21:01 KST",
+  "activity_stamp": "2026-11-12 03:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
