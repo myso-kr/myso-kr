@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 03:01 KST. 1) arks: Fix clippy collapsible_match in claimed filter object:type gate. (4분 전). 2) arks: Fix rustfmt for G-ladder slices so CI lint passes. (6분 전). 3) svgif: Mark H-024 done (7분 전). 4) svgif: Mark H-025 and H-029 done (7분 전). 5) arks: Execute G-ladder G1–G_final: bundle-uri, LFS locks, filters, forge recipes, one G19. (8분 전). 6) svgif: docs: record Studio as a composition editor (9분 전). 7) jekyll-theme-modootoday: docs(spec): the On this page list marks the section being read (14분 전). 8) jekyll-theme-modootoday: fix(check): the offline page's home link is not a demo link (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 09:02 KST. 1) svgif: ci: map preset camera scale, centre, and parallax depth (4분 전). 2) svgif: fix: keep the SMIL frame-0 transform on the element (6분 전). 3) svgif: fix: refit mockup presets without the demo fixture (13분 전). 4) jekyll-theme-modootoday: fix(budget): the doc sheet cap follows the starter demo builds, 1,536 B (36분 전). 5) jekyll-theme-modootoday: feat(toc): the On this page list marks the section being read (1시간 전). 6) jekyll-theme-modootoday: fix(pwa): the open page loads the update notice only when the new worker waits for it (2시간 전). 7) pmcp: chore: release pmcp 0.27.0 (5시간 전). 8) pmcp: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (6시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-11 03:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-11 09:02 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/arks">arks</a>: Fix clippy collapsible_match in claimed filter object:type gate. (4분 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Fix rustfmt for G-ladder slices so CI lint passes. (6분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: Mark H-024 done (7분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: Mark H-025 and H-029 done (7분 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Execute G-ladder G1–G_final: bundle-uri, LFS locks, filters, forge recipes, one G19. (8분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: record Studio as a composition editor (9분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the On this page list marks the section being read (14분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(check): the offline page's home link is not a demo link (2시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: ci: map preset camera scale, centre, and parallax depth (4분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: fix: keep the SMIL frame-0 transform on the element (6분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: fix: refit mockup presets without the demo fixture (13분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(budget): the doc sheet cap follows the starter demo builds, 1,536 B (36분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(toc): the On this page list marks the section being read (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(pwa): the open page loads the update notice only when the new worker waits for it (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.27.0 (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (6시간 전)
 
 </details>
 

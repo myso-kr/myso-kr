@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 03:01 KST. 1) arks: Fix clippy collapsible_match in claimed filter object:type gate. (4분 전). 2) arks: Fix rustfmt for G-ladder slices so CI lint passes. (6분 전). 3) svgif: Mark H-024 done (7분 전). 4) svgif: Mark H-025 and H-029 done (7분 전). 5) arks: Execute G-ladder G1–G_final: bundle-uri, LFS locks, filters, forge recipes, one G19. (8분 전). 6) svgif: docs: record Studio as a composition editor (9분 전). 7) jekyll-theme-modootoday: docs(spec): the On this page list marks the section being read (14분 전). 8) jekyll-theme-modootoday: fix(check): the offline page's home link is not a demo link (2시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-11 09:02 KST. 1) svgif: ci: map preset camera scale, centre, and parallax depth (4분 전). 2) svgif: fix: keep the SMIL frame-0 transform on the element (6분 전). 3) svgif: fix: refit mockup presets without the demo fixture (13분 전). 4) jekyll-theme-modootoday: fix(budget): the doc sheet cap follows the starter demo builds, 1,536 B (36분 전). 5) jekyll-theme-modootoday: feat(toc): the On this page list marks the section being read (1시간 전). 6) jekyll-theme-modootoday: fix(pwa): the open page loads the update notice only when the new worker waits for it (2시간 전). 7) pmcp: chore: release pmcp 0.27.0 (5시간 전). 8) pmcp: feat(host): pmcp host io measure refuses while qos holds vrate to the current model (6시간 전).",
   "activity_items": [
     {
-      "repo": "arks",
-      "url": "https://github.com/modootoday/arks",
-      "msg": "Fix clippy collapsible_match in claimed filter object:type gate.",
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "ci: map preset camera scale, centre, and parallax depth",
       "when": "4분 전"
     },
     {
-      "repo": "arks",
-      "url": "https://github.com/modootoday/arks",
-      "msg": "Fix rustfmt for G-ladder slices so CI lint passes.",
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "fix: keep the SMIL frame-0 transform on the element",
       "when": "6분 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "Mark H-024 done",
-      "when": "7분 전"
-    },
-    {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "Mark H-025 and H-029 done",
-      "when": "7분 전"
-    },
-    {
-      "repo": "arks",
-      "url": "https://github.com/modootoday/arks",
-      "msg": "Execute G-ladder G1–G_final: bundle-uri, LFS locks, filters, forge recipes, one G19.",
-      "when": "8분 전"
-    },
-    {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "docs: record Studio as a composition editor",
-      "when": "9분 전"
+      "msg": "fix: refit mockup presets without the demo fixture",
+      "when": "13분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(spec): the On this page list marks the section being read",
-      "when": "14분 전"
+      "msg": "fix(budget): the doc sheet cap follows the starter demo builds, 1,536 B",
+      "when": "36분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "fix(check): the offline page's home link is not a demo link",
+      "msg": "feat(toc): the On this page list marks the section being read",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "fix(pwa): the open page loads the update notice only when the new worker waits for it",
       "when": "2시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.27.0",
+      "when": "5시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "feat(host): pmcp host io measure refuses while qos holds vrate to the current model",
+      "when": "6시간 전"
     }
   ],
-  "activity_stamp": "2026-11-11 03:01 KST",
+  "activity_stamp": "2026-11-11 09:02 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
