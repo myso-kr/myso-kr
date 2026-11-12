@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 09:02 KST. 1) jekyll-theme-modootoday: test(qa): the components audit bounds its second network-idle wait (24분 전). 2) jekyll-theme-modootoday: feat(check): modootoday-check --links reports broken internal links and anchors (44분 전). 3) jekyll-theme-modootoday: refactor(check): the stub checks move to build/stubs/ (1시간 전). 4) pmcp: chore: release pmcp 0.28.1 (4시간 전). 5) pmcp: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전). 6) pmcp: chore: release pmcp 0.28.0 (6시간 전). 7) svgif: chore: record H-154 done and assign binding packages (16시간 전). 8) svgif: feat: bind preset parameters by kind (16시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 15:01 KST. 1) jekyll-theme-modootoday: feat(meta): edit_url: auto and a built-from-commit link from site.github (3시간 전). 2) pmcp: chore: release pmcp 0.29.0 (3시간 전). 3) pmcp: fix(git): sync fetches a submodule's missing pin and follows clean, pushed submodules that lagged (4시간 전). 4) pmcp: feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step (4시간 전). 5) jekyll-theme-modootoday: test(theme): the feed and archive tests move to test/theme/blog/ (4시간 전). 6) jekyll-theme-modootoday: feat(feed): feed discovery and Subscribe links on blog, author and archive pages (5시간 전). 7) svgif: chore: record H-154 done and assign binding packages (22시간 전). 8) svgif: feat: bind preset parameters by kind (22시간 전).",
   "activity_items": [
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "test(qa): the components audit bounds its second network-idle wait",
-      "when": "24분 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "feat(check): modootoday-check --links reports broken internal links and anchors",
-      "when": "44분 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "refactor(check): the stub checks move to build/stubs/",
-      "when": "1시간 전"
+      "msg": "feat(meta): edit_url: auto and a built-from-commit link from site.github",
+      "when": "3시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.28.1",
+      "msg": "chore: release pmcp 0.29.0",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "fix(git): sync fetches a submodule's missing pin and follows clean, pushed submodules that lagged",
       "when": "4시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "test(git): the refuse delivery test compares trees, since a replay may change the commit hash",
-      "when": "5시간 전"
+      "msg": "feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step",
+      "when": "4시간 전"
     },
     {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.28.0",
-      "when": "6시간 전"
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "test(theme): the feed and archive tests move to test/theme/blog/",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "feat(feed): feed discovery and Subscribe links on blog, author and archive pages",
+      "when": "5시간 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "chore: record H-154 done and assign binding packages",
-      "when": "16시간 전"
+      "when": "22시간 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "feat: bind preset parameters by kind",
-      "when": "16시간 전"
+      "when": "22시간 전"
     }
   ],
-  "activity_stamp": "2026-11-12 09:02 KST",
+  "activity_stamp": "2026-11-12 15:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",

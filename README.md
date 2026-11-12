@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 09:02 KST. 1) jekyll-theme-modootoday: test(qa): the components audit bounds its second network-idle wait (24분 전). 2) jekyll-theme-modootoday: feat(check): modootoday-check --links reports broken internal links and anchors (44분 전). 3) jekyll-theme-modootoday: refactor(check): the stub checks move to build/stubs/ (1시간 전). 4) pmcp: chore: release pmcp 0.28.1 (4시간 전). 5) pmcp: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전). 6) pmcp: chore: release pmcp 0.28.0 (6시간 전). 7) svgif: chore: record H-154 done and assign binding packages (16시간 전). 8) svgif: feat: bind preset parameters by kind (16시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 15:01 KST. 1) jekyll-theme-modootoday: feat(meta): edit_url: auto and a built-from-commit link from site.github (3시간 전). 2) pmcp: chore: release pmcp 0.29.0 (3시간 전). 3) pmcp: fix(git): sync fetches a submodule's missing pin and follows clean, pushed submodules that lagged (4시간 전). 4) pmcp: feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step (4시간 전). 5) jekyll-theme-modootoday: test(theme): the feed and archive tests move to test/theme/blog/ (4시간 전). 6) jekyll-theme-modootoday: feat(feed): feed discovery and Subscribe links on blog, author and archive pages (5시간 전). 7) svgif: chore: record H-154 done and assign binding packages (22시간 전). 8) svgif: feat: bind preset parameters by kind (22시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-12 09:02 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-12 15:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(qa): the components audit bounds its second network-idle wait (24분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(check): modootoday-check --links reports broken internal links and anchors (44분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(check): the stub checks move to build/stubs/ (1시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.28.1 (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.28.0 (6시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-154 done and assign binding packages (16시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: feat: bind preset parameters by kind (16시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(meta): edit_url: auto and a built-from-commit link from site.github (3시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.29.0 (3시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): sync fetches a submodule's missing pin and follows clean, pushed submodules that lagged (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(git): dir_to_gitlink_main_hint names the main checkout's own adoption step (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(theme): the feed and archive tests move to test/theme/blog/ (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(feed): feed discovery and Subscribe links on blog, author and archive pages (5시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-154 done and assign binding packages (22시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: feat: bind preset parameters by kind (22시간 전)
 
 </details>
 
