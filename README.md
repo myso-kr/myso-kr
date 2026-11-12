@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 03:01 KST. 1) jekyll-theme-modootoday: feat(content): heading anchor links with no script (1시간 전). 2) svgif: chore: record H-154 done and assign binding packages (10시간 전). 3) svgif: feat: bind preset parameters by kind (10시간 전). 4) svgif: chore: redesign H-154 as semantic parameter binding (11시간 전). 5) jekyll-theme-modootoday: fix(header): the first frames show the whole header when the stylesheets are cached (12시간 전). 6) jekyll-theme-modootoday: docs: turn the docs site worker back on after the release drill (13시간 전). 7) jekyll-theme-modootoday-landing-starter: ci: rebuild the site when a release is published (16시간 전). 8) jekyll-theme-modootoday-docs-starter: ci: rebuild the site when a release is published (16시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 09:02 KST. 1) jekyll-theme-modootoday: test(qa): the components audit bounds its second network-idle wait (24분 전). 2) jekyll-theme-modootoday: feat(check): modootoday-check --links reports broken internal links and anchors (44분 전). 3) jekyll-theme-modootoday: refactor(check): the stub checks move to build/stubs/ (1시간 전). 4) pmcp: chore: release pmcp 0.28.1 (4시간 전). 5) pmcp: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전). 6) pmcp: chore: release pmcp 0.28.0 (6시간 전). 7) svgif: chore: record H-154 done and assign binding packages (16시간 전). 8) svgif: feat: bind preset parameters by kind (16시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-12 03:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-12 09:02 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(content): heading anchor links with no script (1시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-154 done and assign binding packages (10시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: feat: bind preset parameters by kind (10시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: redesign H-154 as semantic parameter binding (11시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(header): the first frames show the whole header when the stylesheets are cached (12시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: turn the docs site worker back on after the release drill (13시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday-landing-starter">jekyll-theme-modootoday-landing-starter</a>: ci: rebuild the site when a release is published (16시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday-docs-starter">jekyll-theme-modootoday-docs-starter</a>: ci: rebuild the site when a release is published (16시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: test(qa): the components audit bounds its second network-idle wait (24분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(check): modootoday-check --links reports broken internal links and anchors (44분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: refactor(check): the stub checks move to build/stubs/ (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.28.1 (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: test(git): the refuse delivery test compares trees, since a replay may change the commit hash (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.28.0 (6시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-154 done and assign binding packages (16시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: feat: bind preset parameters by kind (16시간 전)
 
 </details>
 
