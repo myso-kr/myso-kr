@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-12 21:02 KST. 1) jekyll-theme-modootoday: docs(changelog): the ko and ja changelog pages link the feed one level up (1시간 전). 2) jekyll-theme-modootoday: feat(feed): an Atom feed of a changelog, and GitHub's releases feed as an alternate (2시간 전). 3) svgif: chore: record H-168 done (3시간 전). 4) svgif: feat: declare values on mockup, text, and nature swaps (3시간 전). 5) svgif: chore: record H-162 and H-167 done (3시간 전). 6) jekyll-theme-modootoday: feat(meta): Report an issue, Was this page helpful and Discuss links (3시간 전). 7) pmcp: chore: release pmcp 0.29.1 (9시간 전). 8) pmcp: fix(git): a submodule module with no fetch refspec is judged against its origin's branches (9시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 03:01 KST. 1) svgif: Record H-177 and H-176 done (24분 전). 2) svgif: Bind camera-ken-burns endFrame with retime (26분 전). 3) svgif: test: sample a bound endFrame change on a mid-move frame (28분 전). 4) jekyll-theme-modootoday: feat(print): an opt-in print stylesheet (1시간 전). 5) pmcp: chore: release pmcp 0.30.0 (1시간 전). 6) pmcp: docs(lease): pad the gate_alone row as docs:check formats it (2시간 전). 7) pmcp: feat(lease): gate_alone starts no other lane's job while a gate runs or waits (2시간 전). 8) jekyll-theme-modootoday: feat(seo): Open Graph image alt text, size and a fallback image (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-12 21:02 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-13 03:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(changelog): the ko and ja changelog pages link the feed one level up (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(feed): an Atom feed of a changelog, and GitHub's releases feed as an alternate (2시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-168 done (3시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: feat: declare values on mockup, text, and nature swaps (3시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-162 and H-167 done (3시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(meta): Report an issue, Was this page helpful and Discuss links (3시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.29.1 (9시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a submodule module with no fetch refspec is judged against its origin's branches (9시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Record H-177 and H-176 done (24분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Bind camera-ken-burns endFrame with retime (26분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: test: sample a bound endFrame change on a mid-move frame (28분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(print): an opt-in print stylesheet (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.30.0 (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: docs(lease): pad the gate_alone row as docs:check formats it (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): gate_alone starts no other lane's job while a gate runs or waits (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(seo): Open Graph image alt text, size and a fallback image (2시간 전)
 
 </details>
 
