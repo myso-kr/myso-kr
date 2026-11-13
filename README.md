@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 09:01 KST. 1) jekyll-theme-modootoday: fix(docs): translated Changelog pages mark the English release list as English (4시간 전). 2) jekyll-theme-modootoday: fix(toc): a heading in a closed tab panel is never the section being read (4시간 전). 3) pmcp: chore: release pmcp 0.30.1 (5시간 전). 4) pmcp: fix(lease): pmcp heavy warns about an unknown [host.lease] key instead of refusing (6시간 전). 5) jekyll-theme-modootoday: fix(print): the print sheet's rules move to their own context, like the toast sheet (6시간 전). 6) svgif: Record H-177 and H-176 done (6시간 전). 7) svgif: Bind camera-ken-burns endFrame with retime (6시간 전). 8) svgif: test: sample a bound endFrame change on a mid-move frame (6시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 15:01 KST. 1) svgif: Bookkeeping: H-178 done (22분 전). 2) svgif: Count loop-sample pixels above a channel delta of 8 (24분 전). 3) svgif: Bookkeeping: file H-178 loop-sample delta (39분 전). 4) meari: docs: pin docs site theme to v1.6.0 (56분 전). 5) jekyll-theme-modootoday: docs(spec): record the usability audit of the 1.7.0 release candidate (1시간 전). 6) jekyll-theme-modootoday: fix(print): action buttons print as outlines and the mobile section menu is left out (5시간 전). 7) jekyll-theme-modootoday: revert(docs): translated Changelog pages go back to the unmarked release list (5시간 전). 8) pmcp: chore: release pmcp 0.30.1 (11시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-13 09:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-13 15:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(docs): translated Changelog pages mark the English release list as English (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(toc): a heading in a closed tab panel is never the section being read (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.30.1 (5시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(lease): pmcp heavy warns about an unknown [host.lease] key instead of refusing (6시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(print): the print sheet's rules move to their own context, like the toast sheet (6시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: Record H-177 and H-176 done (6시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: Bind camera-ken-burns endFrame with retime (6시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: test: sample a bound endFrame change on a mid-move frame (6시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Bookkeeping: H-178 done (22분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Count loop-sample pixels above a channel delta of 8 (24분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Bookkeeping: file H-178 loop-sample delta (39분 전)
+- <a href="https://github.com/modootoday/meari">meari</a>: docs: pin docs site theme to v1.6.0 (56분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): record the usability audit of the 1.7.0 release candidate (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(print): action buttons print as outlines and the mobile section menu is left out (5시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: revert(docs): translated Changelog pages go back to the unmarked release list (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.30.1 (11시간 전)
 
 </details>
 
