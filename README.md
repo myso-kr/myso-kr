@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 03:01 KST. 1) svgif: Record H-177 and H-176 done (24분 전). 2) svgif: Bind camera-ken-burns endFrame with retime (26분 전). 3) svgif: test: sample a bound endFrame change on a mid-move frame (28분 전). 4) jekyll-theme-modootoday: feat(print): an opt-in print stylesheet (1시간 전). 5) pmcp: chore: release pmcp 0.30.0 (1시간 전). 6) pmcp: docs(lease): pad the gate_alone row as docs:check formats it (2시간 전). 7) pmcp: feat(lease): gate_alone starts no other lane's job while a gate runs or waits (2시간 전). 8) jekyll-theme-modootoday: feat(seo): Open Graph image alt text, size and a fallback image (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 09:01 KST. 1) jekyll-theme-modootoday: fix(docs): translated Changelog pages mark the English release list as English (4시간 전). 2) jekyll-theme-modootoday: fix(toc): a heading in a closed tab panel is never the section being read (4시간 전). 3) pmcp: chore: release pmcp 0.30.1 (5시간 전). 4) pmcp: fix(lease): pmcp heavy warns about an unknown [host.lease] key instead of refusing (6시간 전). 5) jekyll-theme-modootoday: fix(print): the print sheet's rules move to their own context, like the toast sheet (6시간 전). 6) svgif: Record H-177 and H-176 done (6시간 전). 7) svgif: Bind camera-ken-burns endFrame with retime (6시간 전). 8) svgif: test: sample a bound endFrame change on a mid-move frame (6시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-13 03:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-13 09:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/svgif">svgif</a>: Record H-177 and H-176 done (24분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: Bind camera-ken-burns endFrame with retime (26분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: test: sample a bound endFrame change on a mid-move frame (28분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(print): an opt-in print stylesheet (1시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.30.0 (1시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: docs(lease): pad the gate_alone row as docs:check formats it (2시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): gate_alone starts no other lane's job while a gate runs or waits (2시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: feat(seo): Open Graph image alt text, size and a fallback image (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(docs): translated Changelog pages mark the English release list as English (4시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(toc): a heading in a closed tab panel is never the section being read (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.30.1 (5시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(lease): pmcp heavy warns about an unknown [host.lease] key instead of refusing (6시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(print): the print sheet's rules move to their own context, like the toast sheet (6시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Record H-177 and H-176 done (6시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Bind camera-ken-burns endFrame with retime (6시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: test: sample a bound endFrame change on a mid-move frame (6시간 전)
 
 </details>
 
