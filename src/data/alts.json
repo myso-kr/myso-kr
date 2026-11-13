@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-13 21:01 KST. 1) svgif: Bookkeeping: H-181 blocked, pivot to H-184/H-186 (3시간 전). 2) svgif: Bookkeeping: H-156/H-159 done, H-181..H-186 filed (3시간 전). 3) svgif: Record unbound audio parameter binds (3시간 전). 4) jekyll-theme-modootoday: docs: feeds need no plugin, changelog feed files, releases data, feedback values, language homes (4시간 전). 5) jekyll-theme-modootoday: docs(guides): --links needs nokogiri, and the 1.7 upgrade note lists every addition (4시간 전). 6) jekyll-theme-modootoday: docs(changelog): translated Changelog pages link the English release list (4시간 전). 7) meari: docs: pin docs site theme to v1.6.0 (6시간 전). 8) pmcp: chore: release pmcp 0.30.1 (17시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 03:01 KST. 1) svgif: chore(orch): H-184 done; file H-187..H-195 (1분 전). 2) svgif: feat: list preset parameters no bind kind can follow (5분 전). 3) svgif: chore(orch): H-183 done (8분 전). 4) jekyll-theme-modootoday: chore(release): 1.7.0 (4시간 전). 5) pmcp: chore: release pmcp 0.31.0 (6시간 전). 6) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (7시간 전). 7) jekyll-theme-modootoday: docs(guides): --links needs nokogiri, and the 1.7 upgrade note lists every addition (10시간 전). 8) jekyll-theme-modootoday: docs(changelog): translated Changelog pages link the English release list (10시간 전).",
   "activity_items": [
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "Bookkeeping: H-181 blocked, pivot to H-184/H-186",
-      "when": "3시간 전"
+      "msg": "chore(orch): H-184 done; file H-187..H-195",
+      "when": "1분 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "Bookkeeping: H-156/H-159 done, H-181..H-186 filed",
-      "when": "3시간 전"
+      "msg": "feat: list preset parameters no bind kind can follow",
+      "when": "5분 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "Record unbound audio parameter binds",
-      "when": "3시간 전"
+      "msg": "chore(orch): H-183 done",
+      "when": "8분 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs: feeds need no plugin, changelog feed files, releases data, feedback values, language homes",
+      "msg": "chore(release): 1.7.0",
       "when": "4시간 전"
     },
     {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(guides): --links needs nokogiri, and the 1.7 upgrade note lists every addition",
-      "when": "4시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(changelog): translated Changelog pages link the English release list",
-      "when": "4시간 전"
-    },
-    {
-      "repo": "meari",
-      "url": "https://github.com/modootoday/meari",
-      "msg": "docs: pin docs site theme to v1.6.0",
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.31.0",
       "when": "6시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.30.1",
-      "when": "17시간 전"
+      "msg": "feat(hooks): git.discard_work guards commands that throw away uncommitted work",
+      "when": "7시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "docs(guides): --links needs nokogiri, and the 1.7 upgrade note lists every addition",
+      "when": "10시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "docs(changelog): translated Changelog pages link the English release list",
+      "when": "10시간 전"
     }
   ],
-  "activity_stamp": "2026-11-13 21:01 KST",
+  "activity_stamp": "2026-11-14 03:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
