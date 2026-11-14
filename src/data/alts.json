@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 15:01 KST. 1) svgif: chore: record H-202 done (#405) (4시간 전). 2) svgif: fix(studio): keep the shell seams inside the viewport (4시간 전). 3) svgif: chore: record H-203 done (#404) (4시간 전). 4) jekyll-theme-modootoday: docs(spec): the 1.7.0 usability audit lists the fix for each minor (13시간 전). 5) jekyll-theme-modootoday: docs(guides): Translate your site, the steps for site authors (13시간 전). 6) jekyll-theme-modootoday: docs(pwa): steps to see the update notice (13시간 전). 7) pmcp: chore: release pmcp 0.31.0 (18시간 전). 8) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (19시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 21:01 KST. 1) svgif: chore: record H-217 done and assign templates and raster text (35분 전). 2) svgif: Add plain image and video download in simple mode (39분 전). 3) svgif: chore: record H-216 done and assign the plain download (59분 전). 4) arks: Spec-first: tip currency honesty for behavioral DoD + release remote. (1시간 전). 5) arks: Align gate Cargo.lock package names with Cargo.toml. (1시간 전). 6) jekyll-theme-modootoday: docs: word the Japanese github: map stand-in without a calque (2시간 전). 7) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit lists the fix for each finding (2시간 전). 8) jekyll-theme-modootoday: docs: answer the 1.7.1 usability audit in the install, configuration, translation and update guides (2시간 전).",
   "activity_items": [
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "chore: record H-202 done (#405)",
-      "when": "4시간 전"
+      "msg": "chore: record H-217 done and assign templates and raster text",
+      "when": "35분 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "fix(studio): keep the shell seams inside the viewport",
-      "when": "4시간 전"
+      "msg": "Add plain image and video download in simple mode",
+      "when": "39분 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "chore: record H-203 done (#404)",
-      "when": "4시간 전"
+      "msg": "chore: record H-216 done and assign the plain download",
+      "when": "59분 전"
+    },
+    {
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "Spec-first: tip currency honesty for behavioral DoD + release remote.",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "Align gate Cargo.lock package names with Cargo.toml.",
+      "when": "1시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(spec): the 1.7.0 usability audit lists the fix for each minor",
-      "when": "13시간 전"
+      "msg": "docs: word the Japanese github: map stand-in without a calque",
+      "when": "2시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(guides): Translate your site, the steps for site authors",
-      "when": "13시간 전"
+      "msg": "docs(spec): the 1.7.1 usability audit lists the fix for each finding",
+      "when": "2시간 전"
     },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(pwa): steps to see the update notice",
-      "when": "13시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.31.0",
-      "when": "18시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(hooks): git.discard_work guards commands that throw away uncommitted work",
-      "when": "19시간 전"
+      "msg": "docs: answer the 1.7.1 usability audit in the install, configuration, translation and update guides",
+      "when": "2시간 전"
     }
   ],
-  "activity_stamp": "2026-11-14 15:01 KST",
+  "activity_stamp": "2026-11-14 21:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",

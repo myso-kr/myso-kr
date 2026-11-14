@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 15:01 KST. 1) svgif: chore: record H-202 done (#405) (4시간 전). 2) svgif: fix(studio): keep the shell seams inside the viewport (4시간 전). 3) svgif: chore: record H-203 done (#404) (4시간 전). 4) jekyll-theme-modootoday: docs(spec): the 1.7.0 usability audit lists the fix for each minor (13시간 전). 5) jekyll-theme-modootoday: docs(guides): Translate your site, the steps for site authors (13시간 전). 6) jekyll-theme-modootoday: docs(pwa): steps to see the update notice (13시간 전). 7) pmcp: chore: release pmcp 0.31.0 (18시간 전). 8) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (19시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 21:01 KST. 1) svgif: chore: record H-217 done and assign templates and raster text (35분 전). 2) svgif: Add plain image and video download in simple mode (39분 전). 3) svgif: chore: record H-216 done and assign the plain download (59분 전). 4) arks: Spec-first: tip currency honesty for behavioral DoD + release remote. (1시간 전). 5) arks: Align gate Cargo.lock package names with Cargo.toml. (1시간 전). 6) jekyll-theme-modootoday: docs: word the Japanese github: map stand-in without a calque (2시간 전). 7) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit lists the fix for each finding (2시간 전). 8) jekyll-theme-modootoday: docs: answer the 1.7.1 usability audit in the install, configuration, translation and update guides (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-14 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-14 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-202 done (#405) (4시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: fix(studio): keep the shell seams inside the viewport (4시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-203 done (#404) (4시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.0 usability audit lists the fix for each minor (13시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(guides): Translate your site, the steps for site authors (13시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(pwa): steps to see the update notice (13시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.31.0 (18시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(hooks): git.discard_work guards commands that throw away uncommitted work (19시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-217 done and assign templates and raster text (35분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Add plain image and video download in simple mode (39분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-216 done and assign the plain download (59분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Spec-first: tip currency honesty for behavioral DoD + release remote. (1시간 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Align gate Cargo.lock package names with Cargo.toml. (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: word the Japanese github: map stand-in without a calque (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.1 usability audit lists the fix for each finding (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: answer the 1.7.1 usability audit in the install, configuration, translation and update guides (2시간 전)
 
 </details>
 
