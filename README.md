@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 03:01 KST. 1) svgif: chore(orch): H-184 done; file H-187..H-195 (1분 전). 2) svgif: feat: list preset parameters no bind kind can follow (5분 전). 3) svgif: chore(orch): H-183 done (8분 전). 4) jekyll-theme-modootoday: chore(release): 1.7.0 (4시간 전). 5) pmcp: chore: release pmcp 0.31.0 (6시간 전). 6) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (7시간 전). 7) jekyll-theme-modootoday: docs(guides): --links needs nokogiri, and the 1.7 upgrade note lists every addition (10시간 전). 8) jekyll-theme-modootoday: docs(changelog): translated Changelog pages link the English release list (10시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-14 09:01 KST. 1) svgif: chore: record H-200 done and assign the Studio app (#397) (19분 전). 2) svgif: ci: build Studio in Pages and CI when its package exists (23분 전). 3) svgif: orch: assign H-200 and stage Studio wave (H-201, H-069) (#395) (31분 전). 4) jekyll-theme-modootoday: docs(spec): the 1.7.0 usability audit lists the fix for each minor (7시간 전). 5) jekyll-theme-modootoday: docs(guides): Translate your site, the steps for site authors (7시간 전). 6) jekyll-theme-modootoday: docs(pwa): steps to see the update notice (7시간 전). 7) pmcp: chore: release pmcp 0.31.0 (12시간 전). 8) pmcp: feat(hooks): git.discard_work guards commands that throw away uncommitted work (13시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-14 03:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-14 09:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore(orch): H-184 done; file H-187..H-195 (1분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: feat: list preset parameters no bind kind can follow (5분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore(orch): H-183 done (8분 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(release): 1.7.0 (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.31.0 (6시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(hooks): git.discard_work guards commands that throw away uncommitted work (7시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(guides): --links needs nokogiri, and the 1.7 upgrade note lists every addition (10시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(changelog): translated Changelog pages link the English release list (10시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-200 done and assign the Studio app (#397) (19분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: ci: build Studio in Pages and CI when its package exists (23분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: orch: assign H-200 and stage Studio wave (H-201, H-069) (#395) (31분 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.0 usability audit lists the fix for each minor (7시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(guides): Translate your site, the steps for site authors (7시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(pwa): steps to see the update notice (7시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.31.0 (12시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(hooks): git.discard_work guards commands that throw away uncommitted work (13시간 전)
 
 </details>
 
