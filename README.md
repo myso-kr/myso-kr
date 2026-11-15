@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-15 09:01 KST. 1) svgif: chore: record H-225 and H-226 and assign the last plan box and the shell flake (10시간 전). 2) svgif: docs: match studio export fallbacks to the package encoder (10시간 전). 3) svgif: docs: check the done M9 plan boxes (10시간 전). 4) kinekino: docs: record the Windows window smoke after the libmpv load fix (11시간 전). 5) arks: Spec-first: tip currency honesty for behavioral DoD + release remote. (13시간 전). 6) arks: Align gate Cargo.lock package names with Cargo.toml. (13시간 전). 7) jekyll-theme-modootoday: docs: word the Japanese github: map stand-in without a calque (14시간 전). 8) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit lists the fix for each finding (14시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-15 15:01 KST. 1) jekyll-theme-modootoday: fix(a11y): the On this page column scrolls back to its start, and footnote references carry their role on the link (1시간 전). 2) jekyll-theme-modootoday: docs: the kitchen sink names its first card section like the Components page, and the ko and ja translation guide drops two English phrases (1시간 전). 3) jekyll-theme-modootoday: docs: a Markdown twin keeps the page's text, no longer described as byte-identical (3시간 전). 4) svgif: chore: record H-225 and H-226 and assign the last plan box and the shell flake (16시간 전). 5) svgif: docs: match studio export fallbacks to the package encoder (16시간 전). 6) svgif: docs: check the done M9 plan boxes (16시간 전). 7) kinekino: docs: record the Windows window smoke after the libmpv load fix (17시간 전). 8) arks: Spec-first: tip currency honesty for behavioral DoD + release remote. (19시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-15 09:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-15 15:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-225 and H-226 and assign the last plan box and the shell flake (10시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: match studio export fallbacks to the package encoder (10시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: check the done M9 plan boxes (10시간 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: docs: record the Windows window smoke after the libmpv load fix (11시간 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Spec-first: tip currency honesty for behavioral DoD + release remote. (13시간 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Align gate Cargo.lock package names with Cargo.toml. (13시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: word the Japanese github: map stand-in without a calque (14시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.1 usability audit lists the fix for each finding (14시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(a11y): the On this page column scrolls back to its start, and footnote references carry their role on the link (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: the kitchen sink names its first card section like the Components page, and the ko and ja translation guide drops two English phrases (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: a Markdown twin keeps the page's text, no longer described as byte-identical (3시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-225 and H-226 and assign the last plan box and the shell flake (16시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: match studio export fallbacks to the package encoder (16시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: check the done M9 plan boxes (16시간 전)
+- <a href="https://github.com/modootoday/kinekino">kinekino</a>: docs: record the Windows window smoke after the libmpv load fix (17시간 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: Spec-first: tip currency honesty for behavioral DoD + release remote. (19시간 전)
 
 </details>
 
