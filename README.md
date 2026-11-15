@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-15 15:01 KST. 1) jekyll-theme-modootoday: fix(a11y): the On this page column scrolls back to its start, and footnote references carry their role on the link (1시간 전). 2) jekyll-theme-modootoday: docs: the kitchen sink names its first card section like the Components page, and the ko and ja translation guide drops two English phrases (1시간 전). 3) jekyll-theme-modootoday: docs: a Markdown twin keeps the page's text, no longer described as byte-identical (3시간 전). 4) svgif: chore: record H-225 and H-226 and assign the last plan box and the shell flake (16시간 전). 5) svgif: docs: match studio export fallbacks to the package encoder (16시간 전). 6) svgif: docs: check the done M9 plan boxes (16시간 전). 7) kinekino: docs: record the Windows window smoke after the libmpv load fix (17시간 전). 8) arks: Spec-first: tip currency honesty for behavioral DoD + release remote. (19시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-15 21:01 KST. 1) jekyll-theme-modootoday: docs(install): the Jekyll 4 Gemfile line for jekyll-relative-links names no version (1시간 전). 2) pmcp: chore: release pmcp 0.32.0 (2시간 전). 3) pmcp: feat(lease): a waiter past age_limit goes ahead of new interactive and bulk jobs (2시간 전). 4) pmcp: feat(config): an unknown key names the newer pmcp that the checkout pins (2시간 전). 5) jekyll-theme-modootoday: docs(components): the kitchen sinks rename their example Install headings, so the Install section keeps its id (3시간 전). 6) jekyll-theme-modootoday: docs(readme): the Korean and Japanese Contributing sections are one paragraph, keeping the READMEs within 150 lines (5시간 전). 7) svgif: chore: record H-225 and H-226 and assign the last plan box and the shell flake (22시간 전). 8) svgif: docs: match studio export fallbacks to the package encoder (22시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-15 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-15 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(a11y): the On this page column scrolls back to its start, and footnote references carry their role on the link (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: the kitchen sink names its first card section like the Components page, and the ko and ja translation guide drops two English phrases (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs: a Markdown twin keeps the page's text, no longer described as byte-identical (3시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-225 and H-226 and assign the last plan box and the shell flake (16시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: match studio export fallbacks to the package encoder (16시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: check the done M9 plan boxes (16시간 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: docs: record the Windows window smoke after the libmpv load fix (17시간 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: Spec-first: tip currency honesty for behavioral DoD + release remote. (19시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(install): the Jekyll 4 Gemfile line for jekyll-relative-links names no version (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.32.0 (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(lease): a waiter past age_limit goes ahead of new interactive and bulk jobs (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(config): an unknown key names the newer pmcp that the checkout pins (2시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the kitchen sinks rename their example Install headings, so the Install section keeps its id (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(readme): the Korean and Japanese Contributing sections are one paragraph, keeping the READMEs within 150 lines (5시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-225 and H-226 and assign the last plan box and the shell flake (22시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: match studio export fallbacks to the package encoder (22시간 전)
 
 </details>
 
