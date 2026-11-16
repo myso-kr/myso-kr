@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-16 21:01 KST. 1) svgif: docs(plan): narrow the Load and save row to the HTML project (#475) (1시간 전). 2) svgif: feat(embed): link Edit to the work page (#473) (1시간 전). 3) svgif: docs(skills): say which formats the browser export writes (#461) (1시간 전). 4) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (3시간 전). 5) jekyll-theme-modootoday: chore(release): 1.7.1 (6시간 전). 6) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit records the last re-verification (6시간 전). 7) pmcp: chore: release pmcp 0.33.0 (23시간 전). 8) pmcp: fix(hooks): the hook bundle keeps its own copy of the runtime lists (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-17 03:02 KST. 1) svgif: chore(deps-dev): adopt playwright 1.65.0 with its lockfile (#519) (1시간 전). 2) svgif: Write the preset index at build time instead of committing it (#514) (1시간 전). 3) svgif: feat(presets): add the custom path primitive (#513) (1시간 전). 4) specfold: release: 0.8.2 (4시간 전). 5) specfold: fix(set): a bare relation key is written under rel (6시간 전). 6) specfold: fix(D1): landed change notes and wider trees are not asked again (6시간 전). 7) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (9시간 전). 8) jekyll-theme-modootoday: chore(release): 1.7.1 (12시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-16 21:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-17 03:02 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs(plan): narrow the Load and save row to the HTML project (#475) (1시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: feat(embed): link Edit to the work page (#473) (1시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs(skills): say which formats the browser export writes (#461) (1시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (3시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(release): 1.7.1 (6시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.1 usability audit records the last re-verification (6시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.33.0 (23시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(hooks): the hook bundle keeps its own copy of the runtime lists (1일 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: chore(deps-dev): adopt playwright 1.65.0 with its lockfile (#519) (1시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: Write the preset index at build time instead of committing it (#514) (1시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: feat(presets): add the custom path primitive (#513) (1시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.2 (4시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(set): a bare relation key is written under rel (6시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): landed change notes and wider trees are not asked again (6시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (9시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(release): 1.7.1 (12시간 전)
 
 </details>
 
