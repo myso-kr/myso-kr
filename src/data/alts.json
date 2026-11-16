@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-16 15:01 KST. 1) jekyll-theme-modootoday: fix(i18n): the Korean release banner reads without a particle placeholder, and the banner row says how the checker reads an overlay config (16시간 전). 2) pmcp: chore: release pmcp 0.33.0 (17시간 전). 3) pmcp: fix(hooks): the hook bundle keeps its own copy of the runtime lists (18시간 전). 4) pmcp: refactor(cli): the options commands share have one owner (18시간 전). 5) jekyll-theme-modootoday: docs(install): the Jekyll 4 Gemfile line for jekyll-relative-links names no version (19시간 전). 6) jekyll-theme-modootoday: docs(components): the kitchen sinks rename their example Install headings, so the Install section keeps its id (21시간 전). 7) svgif: chore: record H-225 and H-226 and assign the last plan box and the shell flake (1일 전). 8) svgif: docs: match studio export fallbacks to the package encoder (1일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-16 21:01 KST. 1) svgif: docs(plan): narrow the Load and save row to the HTML project (#475) (1시간 전). 2) svgif: feat(embed): link Edit to the work page (#473) (1시간 전). 3) svgif: docs(skills): say which formats the browser export writes (#461) (1시간 전). 4) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (3시간 전). 5) jekyll-theme-modootoday: chore(release): 1.7.1 (6시간 전). 6) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit records the last re-verification (6시간 전). 7) pmcp: chore: release pmcp 0.33.0 (23시간 전). 8) pmcp: fix(hooks): the hook bundle keeps its own copy of the runtime lists (1일 전).",
   "activity_items": [
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "docs(plan): narrow the Load and save row to the HTML project (#475)",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "feat(embed): link Edit to the work page (#473)",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "docs(skills): say which formats the browser export writes (#461)",
+      "when": "1시간 전"
+    },
     {
       "repo": "jekyll-theme-modootoday",
       "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "fix(i18n): the Korean release banner reads without a particle placeholder, and the banner row says how the checker reads an overlay config",
-      "when": "16시간 전"
+      "msg": "docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map",
+      "when": "3시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "chore(release): 1.7.1",
+      "when": "6시간 전"
+    },
+    {
+      "repo": "jekyll-theme-modootoday",
+      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
+      "msg": "docs(spec): the 1.7.1 usability audit records the last re-verification",
+      "when": "6시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.33.0",
-      "when": "17시간 전"
+      "when": "23시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "fix(hooks): the hook bundle keeps its own copy of the runtime lists",
-      "when": "18시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "refactor(cli): the options commands share have one owner",
-      "when": "18시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(install): the Jekyll 4 Gemfile line for jekyll-relative-links names no version",
-      "when": "19시간 전"
-    },
-    {
-      "repo": "jekyll-theme-modootoday",
-      "url": "https://github.com/modootoday/jekyll-theme-modootoday",
-      "msg": "docs(components): the kitchen sinks rename their example Install headings, so the Install section keeps its id",
-      "when": "21시간 전"
-    },
-    {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "chore: record H-225 and H-226 and assign the last plan box and the shell flake",
-      "when": "1일 전"
-    },
-    {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "docs: match studio export fallbacks to the package encoder",
       "when": "1일 전"
     }
   ],
-  "activity_stamp": "2026-11-16 15:01 KST",
+  "activity_stamp": "2026-11-16 21:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",

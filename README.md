@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-16 15:01 KST. 1) jekyll-theme-modootoday: fix(i18n): the Korean release banner reads without a particle placeholder, and the banner row says how the checker reads an overlay config (16시간 전). 2) pmcp: chore: release pmcp 0.33.0 (17시간 전). 3) pmcp: fix(hooks): the hook bundle keeps its own copy of the runtime lists (18시간 전). 4) pmcp: refactor(cli): the options commands share have one owner (18시간 전). 5) jekyll-theme-modootoday: docs(install): the Jekyll 4 Gemfile line for jekyll-relative-links names no version (19시간 전). 6) jekyll-theme-modootoday: docs(components): the kitchen sinks rename their example Install headings, so the Install section keeps its id (21시간 전). 7) svgif: chore: record H-225 and H-226 and assign the last plan box and the shell flake (1일 전). 8) svgif: docs: match studio export fallbacks to the package encoder (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-16 21:01 KST. 1) svgif: docs(plan): narrow the Load and save row to the HTML project (#475) (1시간 전). 2) svgif: feat(embed): link Edit to the work page (#473) (1시간 전). 3) svgif: docs(skills): say which formats the browser export writes (#461) (1시간 전). 4) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (3시간 전). 5) jekyll-theme-modootoday: chore(release): 1.7.1 (6시간 전). 6) jekyll-theme-modootoday: docs(spec): the 1.7.1 usability audit records the last re-verification (6시간 전). 7) pmcp: chore: release pmcp 0.33.0 (23시간 전). 8) pmcp: fix(hooks): the hook bundle keeps its own copy of the runtime lists (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-16 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-16 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: fix(i18n): the Korean release banner reads without a particle placeholder, and the banner row says how the checker reads an overlay config (16시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.33.0 (17시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(hooks): the hook bundle keeps its own copy of the runtime lists (18시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: refactor(cli): the options commands share have one owner (18시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(install): the Jekyll 4 Gemfile line for jekyll-relative-links names no version (19시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(components): the kitchen sinks rename their example Install headings, so the Install section keeps its id (21시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore: record H-225 and H-226 and assign the last plan box and the shell flake (1일 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs: match studio export fallbacks to the package encoder (1일 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: docs(plan): narrow the Load and save row to the HTML project (#475) (1시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: feat(embed): link Edit to the work page (#473) (1시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: docs(skills): say which formats the browser export writes (#461) (1시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (3시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(release): 1.7.1 (6시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): the 1.7.1 usability audit records the last re-verification (6시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.33.0 (23시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(hooks): the hook bundle keeps its own copy of the runtime lists (1일 전)
 
 </details>
 
