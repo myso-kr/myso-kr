@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-17 09:02 KST. 1) svgif: chore(schema): give the remaining v1 unbound parameters their reasons (#547) (50분 전). 2) svgif: fix(presets): bind the iris centre and the elastic pop strength (#546) (52분 전). 3) svgif: fix(presets): run the v1 text entrances through the mid frame (#545) (55분 전). 4) specfold: release: 0.8.2 (10시간 전). 5) specfold: fix(set): a bare relation key is written under rel (12시간 전). 6) specfold: fix(D1): landed change notes and wider trees are not asked again (12시간 전). 7) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (15시간 전). 8) jekyll-theme-modootoday: chore(release): 1.7.1 (18시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-17 15:01 KST. 1) svgif: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (2시간 전). 2) svgif: spec: record the Advanced mode walkthrough (#556) (2시간 전). 3) svgif: studio: draw a drag once per frame, and pass the shell vision review (#555) (2시간 전). 4) specfold: release: 0.8.2 (16시간 전). 5) specfold: fix(set): a bare relation key is written under rel (18시간 전). 6) specfold: fix(D1): landed change notes and wider trees are not asked again (18시간 전). 7) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (21시간 전). 8) jekyll-theme-modootoday: chore(release): 1.7.1 (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-17 09:02 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-17 15:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore(schema): give the remaining v1 unbound parameters their reasons (#547) (50분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: fix(presets): bind the iris centre and the elastic pop strength (#546) (52분 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: fix(presets): run the v1 text entrances through the mid frame (#545) (55분 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.2 (10시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(set): a bare relation key is written under rel (12시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): landed change notes and wider trees are not asked again (12시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (15시간 전)
-- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(release): 1.7.1 (18시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (2시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: spec: record the Advanced mode walkthrough (#556) (2시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: draw a drag once per frame, and pass the shell vision review (#555) (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.2 (16시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(set): a bare relation key is written under rel (18시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): landed change notes and wider trees are not asked again (18시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (21시간 전)
+- <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(release): 1.7.1 (1일 전)
 
 </details>
 
