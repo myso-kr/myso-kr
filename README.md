@@ -41,16 +41,16 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-17 21:01 KST. 1) svgif: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (8시간 전). 2) svgif: spec: record the Advanced mode walkthrough (#556) (8시간 전). 3) svgif: studio: draw a drag once per frame, and pass the shell vision review (#555) (8시간 전). 4) specfold: release: 0.8.2 (22시간 전). 5) specfold: fix(set): a bare relation key is written under rel (1일 전). 6) specfold: fix(D1): landed change notes and wider trees are not asked again (1일 전). 7) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (1일 전). 8) jekyll-theme-modootoday: chore(release): 1.7.1 (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-18 03:01 KST. 1) specfold: release: 0.9.0 (5시간 전). 2) specfold: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (5시간 전). 3) svgif: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (14시간 전). 4) svgif: spec: record the Advanced mode walkthrough (#556) (14시간 전). 5) svgif: studio: draw a drag once per frame, and pass the shell vision review (#555) (14시간 전). 6) specfold: release: 0.8.2 (1일 전). 7) jekyll-theme-modootoday: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (1일 전). 8) jekyll-theme-modootoday: chore(release): 1.7.1 (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-17 21:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-18 03:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (8시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: spec: record the Advanced mode walkthrough (#556) (8시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: draw a drag once per frame, and pass the shell vision review (#555) (8시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.2 (22시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(set): a bare relation key is written under rel (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: fix(D1): landed change notes and wider trees are not asked again (1일 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.9.0 (5시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (5시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (14시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: spec: record the Advanced mode walkthrough (#556) (14시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: draw a drag once per frame, and pass the shell vision review (#555) (14시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.2 (1일 전)
 - <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: docs(spec): plan the 1.8 starter waves 2 to 6 of the docs demo map (1일 전)
 - <a href="https://github.com/modootoday/jekyll-theme-modootoday">jekyll-theme-modootoday</a>: chore(release): 1.7.1 (1일 전)
 
