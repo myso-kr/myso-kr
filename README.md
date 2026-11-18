@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-18 09:01 KST. 1) kinekino: Update evidence timestamp (3시간 전). 2) kinekino: Record build cache survey and prune decision (3시간 전). 3) specfold: release: 0.9.0 (11시간 전). 4) specfold: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (11시간 전). 5) svgif: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (20시간 전). 6) svgif: spec: record the Advanced mode walkthrough (#556) (20시간 전). 7) svgif: studio: draw a drag once per frame, and pass the shell vision review (#555) (20시간 전). 8) specfold: release: 0.8.2 (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-18 15:01 KST. 1) specfold: release: 0.10.0 (4시간 전). 2) kinekino: Update evidence timestamp (9시간 전). 3) kinekino: Record build cache survey and prune decision (9시간 전). 4) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (9시간 전). 5) specfold: release: 0.9.0 (17시간 전). 6) svgif: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (1일 전). 7) svgif: spec: record the Advanced mode walkthrough (#556) (1일 전). 8) svgif: studio: draw a drag once per frame, and pass the shell vision review (#555) (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-18 09:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-18 15:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: Update evidence timestamp (3시간 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: Record build cache survey and prune decision (3시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.9.0 (11시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): [owners] mount and L10; gitlinks read cleanly from hooks (11시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (20시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: spec: record the Advanced mode walkthrough (#556) (20시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: draw a drag once per frame, and pass the shell vision review (#555) (20시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.8.2 (1일 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.10.0 (4시간 전)
+- <a href="https://github.com/modootoday/kinekino">kinekino</a>: Update evidence timestamp (9시간 전)
+- <a href="https://github.com/modootoday/kinekino">kinekino</a>: Record build cache survey and prune decision (9시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (9시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.9.0 (17시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (1일 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: spec: record the Advanced mode walkthrough (#556) (1일 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: draw a drag once per frame, and pass the shell vision review (#555) (1일 전)
 
 </details>
 
