@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 15:01 KST. 1) arks: test(credential): write the helper path with forward slashes (32분 전). 2) arks: fix(cli): stop pointing gitk users at an external git-gui (35분 전). 3) pmcp: chore: release pmcp 0.34.1 (46분 전). 4) kinekino: chore(agents): add the rendered playpilot implementer role (1시간 전). 5) pmcp: docs(upgrading): what changes from 0.34.0 to 0.34.1 (1시간 전). 6) svgif: ci: sync the guard hook to playpilot fde4784 (#593) (1시간 전). 7) playpilot: fix(render): keep the fleet config name out of public text (#37) (1시간 전). 8) svgif: ci: report a placeholder deny list as not configured (#559) (2시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 21:01 KST. 1) arks: test(verify): add the range-diff gap corpus (1시간 전). 2) arks: fix(range-diff): colour context markers apart under ws-error-highlight (1시간 전). 3) svgif: build(release): ship the license files in each package (#594) (3시간 전). 4) pmcp: fix(pmcp): validate marketplaces alternatives inside config reader (4시간 전). 5) pmcp: feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation (4시간 전). 6) pmcp: feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup (5시간 전). 7) kinekino: chore(agents): add the rendered playpilot implementer role (7시간 전). 8) svgif: ci: sync the guard hook to playpilot fde4784 (#593) (7시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-20 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-20 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/arks">arks</a>: test(credential): write the helper path with forward slashes (32분 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: fix(cli): stop pointing gitk users at an external git-gui (35분 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.34.1 (46분 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: chore(agents): add the rendered playpilot implementer role (1시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: docs(upgrading): what changes from 0.34.0 to 0.34.1 (1시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: ci: sync the guard hook to playpilot fde4784 (#593) (1시간 전)
-- <a href="https://github.com/modootoday/playpilot">playpilot</a>: fix(render): keep the fleet config name out of public text (#37) (1시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: ci: report a placeholder deny list as not configured (#559) (2시간 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: test(verify): add the range-diff gap corpus (1시간 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: fix(range-diff): colour context markers apart under ws-error-highlight (1시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: build(release): ship the license files in each package (#594) (3시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(pmcp): validate marketplaces alternatives inside config reader (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup (5시간 전)
+- <a href="https://github.com/modootoday/kinekino">kinekino</a>: chore(agents): add the rendered playpilot implementer role (7시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: ci: sync the guard hook to playpilot fde4784 (#593) (7시간 전)
 
 </details>
 

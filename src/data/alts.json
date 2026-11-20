@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 15:01 KST. 1) arks: test(credential): write the helper path with forward slashes (32분 전). 2) arks: fix(cli): stop pointing gitk users at an external git-gui (35분 전). 3) pmcp: chore: release pmcp 0.34.1 (46분 전). 4) kinekino: chore(agents): add the rendered playpilot implementer role (1시간 전). 5) pmcp: docs(upgrading): what changes from 0.34.0 to 0.34.1 (1시간 전). 6) svgif: ci: sync the guard hook to playpilot fde4784 (#593) (1시간 전). 7) playpilot: fix(render): keep the fleet config name out of public text (#37) (1시간 전). 8) svgif: ci: report a placeholder deny list as not configured (#559) (2시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 21:01 KST. 1) arks: test(verify): add the range-diff gap corpus (1시간 전). 2) arks: fix(range-diff): colour context markers apart under ws-error-highlight (1시간 전). 3) svgif: build(release): ship the license files in each package (#594) (3시간 전). 4) pmcp: fix(pmcp): validate marketplaces alternatives inside config reader (4시간 전). 5) pmcp: feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation (4시간 전). 6) pmcp: feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup (5시간 전). 7) kinekino: chore(agents): add the rendered playpilot implementer role (7시간 전). 8) svgif: ci: sync the guard hook to playpilot fde4784 (#593) (7시간 전).",
   "activity_items": [
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
-      "msg": "test(credential): write the helper path with forward slashes",
-      "when": "32분 전"
+      "msg": "test(verify): add the range-diff gap corpus",
+      "when": "1시간 전"
     },
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
-      "msg": "fix(cli): stop pointing gitk users at an external git-gui",
-      "when": "35분 전"
+      "msg": "fix(range-diff): colour context markers apart under ws-error-highlight",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "build(release): ship the license files in each package (#594)",
+      "when": "3시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "chore: release pmcp 0.34.1",
-      "when": "46분 전"
+      "msg": "fix(pmcp): validate marketplaces alternatives inside config reader",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation",
+      "when": "4시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup",
+      "when": "5시간 전"
     },
     {
       "repo": "kinekino",
       "url": "https://github.com/modootoday/kinekino",
       "msg": "chore(agents): add the rendered playpilot implementer role",
-      "when": "1시간 전"
-    },
-    {
-      "repo": "pmcp",
-      "url": "https://github.com/modootoday/pmcp",
-      "msg": "docs(upgrading): what changes from 0.34.0 to 0.34.1",
-      "when": "1시간 전"
+      "when": "7시간 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "ci: sync the guard hook to playpilot fde4784 (#593)",
-      "when": "1시간 전"
-    },
-    {
-      "repo": "playpilot",
-      "url": "https://github.com/modootoday/playpilot",
-      "msg": "fix(render): keep the fleet config name out of public text (#37)",
-      "when": "1시간 전"
-    },
-    {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "ci: report a placeholder deny list as not configured (#559)",
-      "when": "2시간 전"
+      "when": "7시간 전"
     }
   ],
-  "activity_stamp": "2026-11-20 15:01 KST",
+  "activity_stamp": "2026-11-20 21:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
