@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 03:01 KST. 1) kinekino: Record the order of the remaining browser provider slices (10분 전). 2) envs: feat(doctor): report a source's file that disagrees with the current release (7시간 전). 3) envs: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (7시간 전). 4) specfold: release: 0.10.0 (1일 전). 5) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (1일 전). 6) specfold: release: 0.9.0 (2일 전). 7) svgif: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (2일 전). 8) svgif: spec: record the Advanced mode walkthrough (#556) (2일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 09:01 KST. 1) svgif: feat(svgif): pass the scene and camera in the composition options (#579) (0분 전). 2) svgif: docs(api): pass the scene and camera to composition and layer compile (#578) (2분 전). 3) svgif: feat(svgif): declare the public API types (#577) (2분 전). 4) arks: test(verify): add the argv inventory tool and its baseline receipt (4분 전). 5) arks: docs(spec): plan argv symmetry with git, gh and git daemon (4분 전). 6) playpilot: feat(render): write plugin agent files with render roles (#34) (1시간 전). 7) playpilot: fix(runtimes): node first-run steps, quiet unit and WSL start at boot (#33) (1시간 전). 8) playpilot: ci(release): add the release workflow and a CLI reference (#32) (1시간 전).",
   "activity_items": [
     {
-      "repo": "kinekino",
-      "url": "https://github.com/modootoday/kinekino",
-      "msg": "Record the order of the remaining browser provider slices",
-      "when": "10분 전"
-    },
-    {
-      "repo": "envs",
-      "url": "https://github.com/modootoday/envs",
-      "msg": "feat(doctor): report a source's file that disagrees with the current release",
-      "when": "7시간 전"
-    },
-    {
-      "repo": "envs",
-      "url": "https://github.com/modootoday/envs",
-      "msg": "chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release",
-      "when": "7시간 전"
-    },
-    {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "release: 0.10.0",
-      "when": "1일 전"
-    },
-    {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "feat(check): mounted repositories resolve through their workspace; D1 skips version bumps",
-      "when": "1일 전"
-    },
-    {
-      "repo": "specfold",
-      "url": "https://github.com/modootoday/specfold",
-      "msg": "release: 0.9.0",
-      "when": "2일 전"
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "feat(svgif): pass the scene and camera in the composition options (#579)",
+      "when": "0분 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "studio: plain words, familiar placement, and in-place motions in Advanced mode (#557)",
-      "when": "2일 전"
+      "msg": "docs(api): pass the scene and camera to composition and layer compile (#578)",
+      "when": "2분 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
-      "msg": "spec: record the Advanced mode walkthrough (#556)",
-      "when": "2일 전"
+      "msg": "feat(svgif): declare the public API types (#577)",
+      "when": "2분 전"
+    },
+    {
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "test(verify): add the argv inventory tool and its baseline receipt",
+      "when": "4분 전"
+    },
+    {
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "docs(spec): plan argv symmetry with git, gh and git daemon",
+      "when": "4분 전"
+    },
+    {
+      "repo": "playpilot",
+      "url": "https://github.com/modootoday/playpilot",
+      "msg": "feat(render): write plugin agent files with render roles (#34)",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "playpilot",
+      "url": "https://github.com/modootoday/playpilot",
+      "msg": "fix(runtimes): node first-run steps, quiet unit and WSL start at boot (#33)",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "playpilot",
+      "url": "https://github.com/modootoday/playpilot",
+      "msg": "ci(release): add the release workflow and a CLI reference (#32)",
+      "when": "1시간 전"
     }
   ],
-  "activity_stamp": "2026-11-20 03:01 KST",
+  "activity_stamp": "2026-11-20 09:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",

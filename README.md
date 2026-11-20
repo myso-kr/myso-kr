@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 03:01 KST. 1) kinekino: Record the order of the remaining browser provider slices (10분 전). 2) envs: feat(doctor): report a source's file that disagrees with the current release (7시간 전). 3) envs: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (7시간 전). 4) specfold: release: 0.10.0 (1일 전). 5) specfold: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (1일 전). 6) specfold: release: 0.9.0 (2일 전). 7) svgif: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (2일 전). 8) svgif: spec: record the Advanced mode walkthrough (#556) (2일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 09:01 KST. 1) svgif: feat(svgif): pass the scene and camera in the composition options (#579) (0분 전). 2) svgif: docs(api): pass the scene and camera to composition and layer compile (#578) (2분 전). 3) svgif: feat(svgif): declare the public API types (#577) (2분 전). 4) arks: test(verify): add the argv inventory tool and its baseline receipt (4분 전). 5) arks: docs(spec): plan argv symmetry with git, gh and git daemon (4분 전). 6) playpilot: feat(render): write plugin agent files with render roles (#34) (1시간 전). 7) playpilot: fix(runtimes): node first-run steps, quiet unit and WSL start at boot (#33) (1시간 전). 8) playpilot: ci(release): add the release workflow and a CLI reference (#32) (1시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-20 03:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-20 09:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: Record the order of the remaining browser provider slices (10분 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: feat(doctor): report a source's file that disagrees with the current release (7시간 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.5.3, doctor reports a source's file that disagrees with the current release (7시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.10.0 (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): mounted repositories resolve through their workspace; D1 skips version bumps (1일 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.9.0 (2일 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: studio: plain words, familiar placement, and in-place motions in Advanced mode (#557) (2일 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: spec: record the Advanced mode walkthrough (#556) (2일 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: feat(svgif): pass the scene and camera in the composition options (#579) (0분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: docs(api): pass the scene and camera to composition and layer compile (#578) (2분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: feat(svgif): declare the public API types (#577) (2분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: test(verify): add the argv inventory tool and its baseline receipt (4분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: docs(spec): plan argv symmetry with git, gh and git daemon (4분 전)
+- <a href="https://github.com/modootoday/playpilot">playpilot</a>: feat(render): write plugin agent files with render roles (#34) (1시간 전)
+- <a href="https://github.com/modootoday/playpilot">playpilot</a>: fix(runtimes): node first-run steps, quiet unit and WSL start at boot (#33) (1시간 전)
+- <a href="https://github.com/modootoday/playpilot">playpilot</a>: ci(release): add the release workflow and a CLI reference (#32) (1시간 전)
 
 </details>
 
