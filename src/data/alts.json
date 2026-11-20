@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 21:01 KST. 1) arks: test(verify): add the range-diff gap corpus (1시간 전). 2) arks: fix(range-diff): colour context markers apart under ws-error-highlight (1시간 전). 3) svgif: build(release): ship the license files in each package (#594) (3시간 전). 4) pmcp: fix(pmcp): validate marketplaces alternatives inside config reader (4시간 전). 5) pmcp: feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation (4시간 전). 6) pmcp: feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup (5시간 전). 7) kinekino: chore(agents): add the rendered playpilot implementer role (7시간 전). 8) svgif: ci: sync the guard hook to playpilot fde4784 (#593) (7시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-21 03:01 KST. 1) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (5분 전). 2) arks: docs(evidence): add the A_final argv inventory and corpus receipt (5분 전). 3) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (1시간 전). 4) svgif: docs(scene): describe the core package as the public engine (#595) (5시간 전). 5) svgif: build(release): ship the license files in each package (#594) (9시간 전). 6) pmcp: chore: release pmcp 0.35.0 (9시간 전). 7) pmcp: fix(git): sync clears a stray submodule checkout even when nothing moves (9시간 전). 8) pmcp: fix(sessions): the mailbox guard carries its events instead of a module global (9시간 전).",
   "activity_items": [
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
-      "msg": "test(verify): add the range-diff gap corpus",
-      "when": "1시간 전"
+      "msg": "docs(plan): close the argv symmetry ladder with the A_final receipt",
+      "when": "5분 전"
     },
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
-      "msg": "fix(range-diff): colour context markers apart under ws-error-highlight",
+      "msg": "docs(evidence): add the A_final argv inventory and corpus receipt",
+      "when": "5분 전"
+    },
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "ci(release): upload studio.js and copy each CDN object from one path (#596)",
       "when": "1시간 전"
+    },
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "docs(scene): describe the core package as the public engine (#595)",
+      "when": "5시간 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "build(release): ship the license files in each package (#594)",
-      "when": "3시간 전"
+      "when": "9시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "fix(pmcp): validate marketplaces alternatives inside config reader",
-      "when": "4시간 전"
+      "msg": "chore: release pmcp 0.35.0",
+      "when": "9시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation",
-      "when": "4시간 전"
+      "msg": "fix(git): sync clears a stray submodule checkout even when nothing moves",
+      "when": "9시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
-      "msg": "feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup",
-      "when": "5시간 전"
-    },
-    {
-      "repo": "kinekino",
-      "url": "https://github.com/modootoday/kinekino",
-      "msg": "chore(agents): add the rendered playpilot implementer role",
-      "when": "7시간 전"
-    },
-    {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "ci: sync the guard hook to playpilot fde4784 (#593)",
-      "when": "7시간 전"
+      "msg": "fix(sessions): the mailbox guard carries its events instead of a module global",
+      "when": "9시간 전"
     }
   ],
-  "activity_stamp": "2026-11-20 21:01 KST",
+  "activity_stamp": "2026-11-21 03:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",

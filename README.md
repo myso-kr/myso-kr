@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 21:01 KST. 1) arks: test(verify): add the range-diff gap corpus (1시간 전). 2) arks: fix(range-diff): colour context markers apart under ws-error-highlight (1시간 전). 3) svgif: build(release): ship the license files in each package (#594) (3시간 전). 4) pmcp: fix(pmcp): validate marketplaces alternatives inside config reader (4시간 전). 5) pmcp: feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation (4시간 전). 6) pmcp: feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup (5시간 전). 7) kinekino: chore(agents): add the rendered playpilot implementer role (7시간 전). 8) svgif: ci: sync the guard hook to playpilot fde4784 (#593) (7시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-21 03:01 KST. 1) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (5분 전). 2) arks: docs(evidence): add the A_final argv inventory and corpus receipt (5분 전). 3) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (1시간 전). 4) svgif: docs(scene): describe the core package as the public engine (#595) (5시간 전). 5) svgif: build(release): ship the license files in each package (#594) (9시간 전). 6) pmcp: chore: release pmcp 0.35.0 (9시간 전). 7) pmcp: fix(git): sync clears a stray submodule checkout even when nothing moves (9시간 전). 8) pmcp: fix(sessions): the mailbox guard carries its events instead of a module global (9시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-20 21:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-21 03:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/arks">arks</a>: test(verify): add the range-diff gap corpus (1시간 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: fix(range-diff): colour context markers apart under ws-error-highlight (1시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: build(release): ship the license files in each package (#594) (3시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(pmcp): validate marketplaces alternatives inside config reader (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(pmcp): add budget audit, tui mailbox panel, fleet absorption tests, and conditional activation (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(pmcp): add mailbox event scoping, marketplace alternative paths, and stray checkout sync cleanup (5시간 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: chore(agents): add the rendered playpilot implementer role (7시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: ci: sync the guard hook to playpilot fde4784 (#593) (7시간 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: docs(plan): close the argv symmetry ladder with the A_final receipt (5분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: docs(evidence): add the A_final argv inventory and corpus receipt (5분 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: ci(release): upload studio.js and copy each CDN object from one path (#596) (1시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: docs(scene): describe the core package as the public engine (#595) (5시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: build(release): ship the license files in each package (#594) (9시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.35.0 (9시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): sync clears a stray submodule checkout even when nothing moves (9시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(sessions): the mailbox guard carries its events instead of a module global (9시간 전)
 
 </details>
 
