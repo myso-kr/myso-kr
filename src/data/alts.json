@@ -1,56 +1,56 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 09:01 KST. 1) svgif: feat(svgif): pass the scene and camera in the composition options (#579) (0분 전). 2) svgif: docs(api): pass the scene and camera to composition and layer compile (#578) (2분 전). 3) svgif: feat(svgif): declare the public API types (#577) (2분 전). 4) arks: test(verify): add the argv inventory tool and its baseline receipt (4분 전). 5) arks: docs(spec): plan argv symmetry with git, gh and git daemon (4분 전). 6) playpilot: feat(render): write plugin agent files with render roles (#34) (1시간 전). 7) playpilot: fix(runtimes): node first-run steps, quiet unit and WSL start at boot (#33) (1시간 전). 8) playpilot: ci(release): add the release workflow and a CLI reference (#32) (1시간 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-20 15:01 KST. 1) arks: test(credential): write the helper path with forward slashes (32분 전). 2) arks: fix(cli): stop pointing gitk users at an external git-gui (35분 전). 3) pmcp: chore: release pmcp 0.34.1 (46분 전). 4) kinekino: chore(agents): add the rendered playpilot implementer role (1시간 전). 5) pmcp: docs(upgrading): what changes from 0.34.0 to 0.34.1 (1시간 전). 6) svgif: ci: sync the guard hook to playpilot fde4784 (#593) (1시간 전). 7) playpilot: fix(render): keep the fleet config name out of public text (#37) (1시간 전). 8) svgif: ci: report a placeholder deny list as not configured (#559) (2시간 전).",
   "activity_items": [
     {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "feat(svgif): pass the scene and camera in the composition options (#579)",
-      "when": "0분 전"
-    },
-    {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "docs(api): pass the scene and camera to composition and layer compile (#578)",
-      "when": "2분 전"
-    },
-    {
-      "repo": "svgif",
-      "url": "https://github.com/modootoday/svgif",
-      "msg": "feat(svgif): declare the public API types (#577)",
-      "when": "2분 전"
+      "repo": "arks",
+      "url": "https://github.com/modootoday/arks",
+      "msg": "test(credential): write the helper path with forward slashes",
+      "when": "32분 전"
     },
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
-      "msg": "test(verify): add the argv inventory tool and its baseline receipt",
-      "when": "4분 전"
+      "msg": "fix(cli): stop pointing gitk users at an external git-gui",
+      "when": "35분 전"
     },
     {
-      "repo": "arks",
-      "url": "https://github.com/modootoday/arks",
-      "msg": "docs(spec): plan argv symmetry with git, gh and git daemon",
-      "when": "4분 전"
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "chore: release pmcp 0.34.1",
+      "when": "46분 전"
     },
     {
-      "repo": "playpilot",
-      "url": "https://github.com/modootoday/playpilot",
-      "msg": "feat(render): write plugin agent files with render roles (#34)",
+      "repo": "kinekino",
+      "url": "https://github.com/modootoday/kinekino",
+      "msg": "chore(agents): add the rendered playpilot implementer role",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "pmcp",
+      "url": "https://github.com/modootoday/pmcp",
+      "msg": "docs(upgrading): what changes from 0.34.0 to 0.34.1",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "ci: sync the guard hook to playpilot fde4784 (#593)",
       "when": "1시간 전"
     },
     {
       "repo": "playpilot",
       "url": "https://github.com/modootoday/playpilot",
-      "msg": "fix(runtimes): node first-run steps, quiet unit and WSL start at boot (#33)",
+      "msg": "fix(render): keep the fleet config name out of public text (#37)",
       "when": "1시간 전"
     },
     {
-      "repo": "playpilot",
-      "url": "https://github.com/modootoday/playpilot",
-      "msg": "ci(release): add the release workflow and a CLI reference (#32)",
-      "when": "1시간 전"
+      "repo": "svgif",
+      "url": "https://github.com/modootoday/svgif",
+      "msg": "ci: report a placeholder deny list as not configured (#559)",
+      "when": "2시간 전"
     }
   ],
-  "activity_stamp": "2026-11-20 09:01 KST",
+  "activity_stamp": "2026-11-20 15:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
