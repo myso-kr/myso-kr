@@ -1,5 +1,5 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-22 15:01 KST. 1) svgif: docs(plan): check the four public package rows (#597) (1일 전). 2) pmcp: chore: release pmcp 0.35.1 (1일 전). 3) pmcp: docs(upgrading): pmcp doctor is what reports the marketplace path read (1일 전). 4) pmcp: fix(hooks): git.push_without_verify also refuses a push that points core.hooksPath away (1일 전). 5) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (1일 전). 6) arks: docs(evidence): add the A_final argv inventory and corpus receipt (1일 전). 7) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (1일 전). 8) svgif: docs(scene): describe the core package as the public engine (#595) (1일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-22 21:01 KST. 1) svgif: docs(plan): check the four public package rows (#597) (1일 전). 2) pmcp: chore: release pmcp 0.35.1 (1일 전). 3) pmcp: docs(upgrading): pmcp doctor is what reports the marketplace path read (1일 전). 4) pmcp: fix(hooks): git.push_without_verify also refuses a push that points core.hooksPath away (1일 전). 5) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (1일 전). 6) arks: docs(evidence): add the A_final argv inventory and corpus receipt (1일 전). 7) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (1일 전). 8) svgif: docs(scene): describe the core package as the public engine (#595) (1일 전).",
   "activity_items": [
     {
       "repo": "svgif",
@@ -50,7 +50,7 @@
       "when": "1일 전"
     }
   ],
-  "activity_stamp": "2026-11-22 15:01 KST",
+  "activity_stamp": "2026-11-22 21:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
