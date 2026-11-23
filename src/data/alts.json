@@ -1,23 +1,23 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-23 21:01 KST. 1) pmcp: chore: release pmcp 0.37.0 (16시간 전). 2) pmcp: chore: release pmcp 0.37.0 (16시간 전). 3) pmcp: feat(harness): checkpoint PMCP history before provider switches (16시간 전). 4) svgif: docs(plan): check the four public package rows (#597) (2일 전). 5) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (2일 전). 6) arks: docs(evidence): add the A_final argv inventory and corpus receipt (2일 전). 7) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (2일 전). 8) svgif: docs(scene): describe the core package as the public engine (#595) (2일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-24 03:01 KST. 1) pmcp: chore: release pmcp 0.37.0 (22시간 전). 2) pmcp: chore: release pmcp 0.37.0 (22시간 전). 3) pmcp: feat(harness): checkpoint PMCP history before provider switches (22시간 전). 4) svgif: docs(plan): check the four public package rows (#597) (2일 전). 5) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (3일 전). 6) arks: docs(evidence): add the A_final argv inventory and corpus receipt (3일 전). 7) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (3일 전). 8) svgif: docs(scene): describe the core package as the public engine (#595) (3일 전).",
   "activity_items": [
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.37.0",
-      "when": "16시간 전"
+      "when": "22시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "chore: release pmcp 0.37.0",
-      "when": "16시간 전"
+      "when": "22시간 전"
     },
     {
       "repo": "pmcp",
       "url": "https://github.com/modootoday/pmcp",
       "msg": "feat(harness): checkpoint PMCP history before provider switches",
-      "when": "16시간 전"
+      "when": "22시간 전"
     },
     {
       "repo": "svgif",
@@ -29,28 +29,28 @@
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
       "msg": "docs(plan): close the argv symmetry ladder with the A_final receipt",
-      "when": "2일 전"
+      "when": "3일 전"
     },
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
       "msg": "docs(evidence): add the A_final argv inventory and corpus receipt",
-      "when": "2일 전"
+      "when": "3일 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "ci(release): upload studio.js and copy each CDN object from one path (#596)",
-      "when": "2일 전"
+      "when": "3일 전"
     },
     {
       "repo": "svgif",
       "url": "https://github.com/modootoday/svgif",
       "msg": "docs(scene): describe the core package as the public engine (#595)",
-      "when": "2일 전"
+      "when": "3일 전"
     }
   ],
-  "activity_stamp": "2026-11-23 21:01 KST",
+  "activity_stamp": "2026-11-24 03:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
