@@ -41,13 +41,13 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-23 09:01 KST. 1) pmcp: chore: release pmcp 0.37.0 (4시간 전). 2) pmcp: chore: release pmcp 0.37.0 (4시간 전). 3) pmcp: feat(harness): checkpoint PMCP history before provider switches (4시간 전). 4) svgif: docs(plan): check the four public package rows (#597) (2일 전). 5) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (2일 전). 6) arks: docs(evidence): add the A_final argv inventory and corpus receipt (2일 전). 7) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (2일 전). 8) svgif: docs(scene): describe the core package as the public engine (#595) (2일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-23 15:01 KST. 1) pmcp: chore: release pmcp 0.37.0 (10시간 전). 2) pmcp: chore: release pmcp 0.37.0 (10시간 전). 3) pmcp: feat(harness): checkpoint PMCP history before provider switches (10시간 전). 4) svgif: docs(plan): check the four public package rows (#597) (2일 전). 5) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (2일 전). 6) arks: docs(evidence): add the A_final argv inventory and corpus receipt (2일 전). 7) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (2일 전). 8) svgif: docs(scene): describe the core package as the public engine (#595) (2일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-23 09:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-23 15:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.0 (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.0 (4시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(harness): checkpoint PMCP history before provider switches (4시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.0 (10시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.0 (10시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: feat(harness): checkpoint PMCP history before provider switches (10시간 전)
 - <a href="https://github.com/modootoday/svgif">svgif</a>: docs(plan): check the four public package rows (#597) (2일 전)
 - <a href="https://github.com/modootoday/arks">arks</a>: docs(plan): close the argv symmetry ladder with the A_final receipt (2일 전)
 - <a href="https://github.com/modootoday/arks">arks</a>: docs(evidence): add the A_final argv inventory and corpus receipt (2일 전)
