@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-24 15:01 KST. 1) pmcp: chore: release pmcp 0.37.1 (8시간 전). 2) pmcp: ci: run the documentation build and full tests on bun 1.4.4 (8시간 전). 3) pmcp: fix(doctor): codex project trusted accepts an ancestor or the main worktree root (17시간 전). 4) svgif: docs(plan): check the four public package rows (#597) (3일 전). 5) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (3일 전). 6) arks: docs(evidence): add the A_final argv inventory and corpus receipt (3일 전). 7) svgif: ci(release): upload studio.js and copy each CDN object from one path (#596) (3일 전). 8) svgif: docs(scene): describe the core package as the public engine (#595) (3일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-24 21:01 KST. 1) specfold: release: 0.11.0 (2시간 전). 2) specfold: feat(check): aliases are scoped by owner (2시간 전). 3) specfold: test(contract): compare set previews with the updated stamp masked (2시간 전). 4) pmcp: chore: release pmcp 0.37.2 (3시간 전). 5) pmcp: fix(serve): answer tools/list while the catalog walk for resources and skills lists runs (3시간 전). 6) pmcp: chore: release pmcp 0.37.1 (14시간 전). 7) svgif: docs(plan): check the four public package rows (#597) (3일 전). 8) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (3일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-24 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-24 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.1 (8시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: ci: run the documentation build and full tests on bun 1.4.4 (8시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(doctor): codex project trusted accepts an ancestor or the main worktree root (17시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.11.0 (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): aliases are scoped by owner (2시간 전)
+- <a href="https://github.com/modootoday/specfold">specfold</a>: test(contract): compare set previews with the updated stamp masked (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.2 (3시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(serve): answer tools/list while the catalog walk for resources and skills lists runs (3시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.1 (14시간 전)
 - <a href="https://github.com/modootoday/svgif">svgif</a>: docs(plan): check the four public package rows (#597) (3일 전)
 - <a href="https://github.com/modootoday/arks">arks</a>: docs(plan): close the argv symmetry ladder with the A_final receipt (3일 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: docs(evidence): add the A_final argv inventory and corpus receipt (3일 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: ci(release): upload studio.js and copy each CDN object from one path (#596) (3일 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs(scene): describe the core package as the public engine (#595) (3일 전)
 
 </details>
 
