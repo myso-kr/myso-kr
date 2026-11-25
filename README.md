@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-25 03:01 KST. 1) specfold: release: 0.11.0 (8시간 전). 2) specfold: feat(check): aliases are scoped by owner (8시간 전). 3) specfold: test(contract): compare set previews with the updated stamp masked (8시간 전). 4) pmcp: chore: release pmcp 0.37.2 (9시간 전). 5) pmcp: fix(serve): answer tools/list while the catalog walk for resources and skills lists runs (9시간 전). 6) pmcp: chore: release pmcp 0.37.1 (20시간 전). 7) svgif: docs(plan): check the four public package rows (#597) (3일 전). 8) arks: docs(plan): close the argv symmetry ladder with the A_final receipt (4일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-25 09:01 KST. 1) playpilot: fix(rulesets): make v-tags applicable on a personal account (#46) (7분 전). 2) playpilot: docs(agents): verify with --workspace --all-features like CI (#45) (34분 전). 3) playpilot: feat(plugins): WASM plugin host for policy-check and event-sink (#44) (37분 전). 4) arks: docs(agents): point rule 95 at the fleet kill switches (40분 전). 5) arks: ci(github): mirror the playpilot canonical labels (40분 전). 6) pmcp: chore: release pmcp 0.37.4 (1시간 전). 7) pmcp: fix(git): a sync that finds the checkout current still brings lagging submodules to their pins (1시간 전). 8) pmcp: chore: release pmcp 0.37.3 (3시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-25 03:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-25 09:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/specfold">specfold</a>: release: 0.11.0 (8시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: feat(check): aliases are scoped by owner (8시간 전)
-- <a href="https://github.com/modootoday/specfold">specfold</a>: test(contract): compare set previews with the updated stamp masked (8시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.2 (9시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(serve): answer tools/list while the catalog walk for resources and skills lists runs (9시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.1 (20시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: docs(plan): check the four public package rows (#597) (3일 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: docs(plan): close the argv symmetry ladder with the A_final receipt (4일 전)
+- <a href="https://github.com/modootoday/playpilot">playpilot</a>: fix(rulesets): make v-tags applicable on a personal account (#46) (7분 전)
+- <a href="https://github.com/modootoday/playpilot">playpilot</a>: docs(agents): verify with --workspace --all-features like CI (#45) (34분 전)
+- <a href="https://github.com/modootoday/playpilot">playpilot</a>: feat(plugins): WASM plugin host for policy-check and event-sink (#44) (37분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: docs(agents): point rule 95 at the fleet kill switches (40분 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: ci(github): mirror the playpilot canonical labels (40분 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.4 (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a sync that finds the checkout current still brings lagging submodules to their pins (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.3 (3시간 전)
 
 </details>
 
