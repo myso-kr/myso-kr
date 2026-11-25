@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-25 15:01 KST. 1) arks: test(agent): use a bare example.com proxy in the userinfo case (17분 전). 2) arks: docs(plan): mark queue unit Q22 done with its trust-anchor wording (20분 전). 3) .github: feat(ci): a reusable repository scan for every modootoday repository (42분 전). 4) kinekino: build(playpilot): pin the guard and History job to e80e7a2 (1시간 전). 5) playpilot: chore(sync): render the fleet guard hook and implementer role (#56) (1시간 전). 6) svgif: chore(govern): add the repository permission layer (#602) (1시간 전). 7) playpilot: feat(worker): deliver stored events to outbound webhooks (#55) (2시간 전). 8) playpilot: feat(events): follow stored events with playpilot events tail (#54) (3시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-25 21:01 KST. 1) .github: feat(ci): let a repository scan leave the dependency audit to its lock owner (1시간 전). 2) pmcp: chore: release pmcp 0.37.6 (1시간 전). 3) .github: feat(ci): let a repository scan skip the dependency install (2시간 전). 4) pmcp: fix(git): a gitlink held behind its pin on purpose keeps sync at exit 0 (2시간 전). 5) pmcp: fix(git): sync fails and names a gitlink left behind its pin (2시간 전). 6) playpilot: chore(sync): pin the rendered guard hook to the new fleet rev (#57) (3시간 전). 7) svgif: ci: sync the guard hook to playpilot e80e7a2 (#603) (3시간 전). 8) arks: chore(agents): sync the guard hook to playpilot e80e7a2 (5시간 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-25 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-25 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/arks">arks</a>: test(agent): use a bare example.com proxy in the userinfo case (17분 전)
-- <a href="https://github.com/modootoday/arks">arks</a>: docs(plan): mark queue unit Q22 done with its trust-anchor wording (20분 전)
-- <a href="https://github.com/modootoday/.github">.github</a>: feat(ci): a reusable repository scan for every modootoday repository (42분 전)
-- <a href="https://github.com/modootoday/kinekino">kinekino</a>: build(playpilot): pin the guard and History job to e80e7a2 (1시간 전)
-- <a href="https://github.com/modootoday/playpilot">playpilot</a>: chore(sync): render the fleet guard hook and implementer role (#56) (1시간 전)
-- <a href="https://github.com/modootoday/svgif">svgif</a>: chore(govern): add the repository permission layer (#602) (1시간 전)
-- <a href="https://github.com/modootoday/playpilot">playpilot</a>: feat(worker): deliver stored events to outbound webhooks (#55) (2시간 전)
-- <a href="https://github.com/modootoday/playpilot">playpilot</a>: feat(events): follow stored events with playpilot events tail (#54) (3시간 전)
+- <a href="https://github.com/modootoday/.github">.github</a>: feat(ci): let a repository scan leave the dependency audit to its lock owner (1시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.6 (1시간 전)
+- <a href="https://github.com/modootoday/.github">.github</a>: feat(ci): let a repository scan skip the dependency install (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a gitlink held behind its pin on purpose keeps sync at exit 0 (2시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): sync fails and names a gitlink left behind its pin (2시간 전)
+- <a href="https://github.com/modootoday/playpilot">playpilot</a>: chore(sync): pin the rendered guard hook to the new fleet rev (#57) (3시간 전)
+- <a href="https://github.com/modootoday/svgif">svgif</a>: ci: sync the guard hook to playpilot e80e7a2 (#603) (3시간 전)
+- <a href="https://github.com/modootoday/arks">arks</a>: chore(agents): sync the guard hook to playpilot e80e7a2 (5시간 전)
 
 </details>
 
