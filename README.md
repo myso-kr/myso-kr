@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-26 21:01 KST. 1) envs: chore(release): 0.6.0, set writes the new value into the source's file (29분 전). 2) envs: feat(set): write the new value into the source's file, --catalog-only keeps the old way (30분 전). 3) .github: feat(ci): let a repository scan leave the dependency audit to its lock owner (1일 전). 4) pmcp: chore: release pmcp 0.37.6 (1일 전). 5) .github: feat(ci): let a repository scan skip the dependency install (1일 전). 6) pmcp: fix(git): a gitlink held behind its pin on purpose keeps sync at exit 0 (1일 전). 7) pmcp: fix(git): sync fails and names a gitlink left behind its pin (1일 전). 8) playpilot: chore(sync): pin the rendered guard hook to the new fleet rev (#57) (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-27 03:01 KST. 1) datalab-extension-mcp: release 1.18.1 (3시간 전). 2) datalab-extension-mcp: release 1.18.0 (3시간 전). 3) datalab-extension-mcp: Create CNAME (5시간 전). 4) envs: chore(release): 0.6.0, set writes the new value into the source's file (6시간 전). 5) envs: feat(set): write the new value into the source's file, --catalog-only keeps the old way (6시간 전). 6) .github: feat(ci): let a repository scan leave the dependency audit to its lock owner (1일 전). 7) pmcp: chore: release pmcp 0.37.6 (1일 전). 8) .github: feat(ci): let a repository scan skip the dependency install (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-26 21:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-27 03:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.6.0, set writes the new value into the source's file (29분 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: feat(set): write the new value into the source's file, --catalog-only keeps the old way (30분 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.1 (3시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.0 (3시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: Create CNAME (5시간 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.6.0, set writes the new value into the source's file (6시간 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: feat(set): write the new value into the source's file, --catalog-only keeps the old way (6시간 전)
 - <a href="https://github.com/modootoday/.github">.github</a>: feat(ci): let a repository scan leave the dependency audit to its lock owner (1일 전)
 - <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.6 (1일 전)
 - <a href="https://github.com/modootoday/.github">.github</a>: feat(ci): let a repository scan skip the dependency install (1일 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): a gitlink held behind its pin on purpose keeps sync at exit 0 (1일 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(git): sync fails and names a gitlink left behind its pin (1일 전)
-- <a href="https://github.com/modootoday/playpilot">playpilot</a>: chore(sync): pin the rendered guard hook to the new fleet rev (#57) (1일 전)
 
 </details>
 
