@@ -41,18 +41,18 @@
 
 <h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-dark.svg"><img alt="03 최근 활동 – 모두의오늘 공개 저장소에 남긴 커밋" src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/sec-activity-light.svg" width="100%"></picture></h2>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-27 15:01 KST. 1) datalab-extension-mcp: release 1.18.2 (5분 전). 2) pmcp: chore: release pmcp 0.37.7 (6시간 전). 3) pmcp: fix(remote): a sign-in is sent only to the API origin it was granted for (6시간 전). 4) datalab-extension-mcp: release 1.18.1 (15시간 전). 5) datalab-extension-mcp: release 1.18.0 (15시간 전). 6) envs: chore(release): 0.6.0, set writes the new value into the source's file (18시간 전). 7) envs: feat(set): write the new value into the source's file, --catalog-only keeps the old way (18시간 전). 8) .github: feat(ci): let a repository scan leave the dependency audit to its lock owner (1일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-dark.svg"><img alt="최근 활동 – 공개 저장소 커밋 · 기준 2026-11-27 21:01 KST. 1) datalab-extension-mcp: release 1.18.2 (6시간 전). 2) pmcp: chore: release pmcp 0.37.7 (12시간 전). 3) pmcp: fix(remote): a sign-in is sent only to the API origin it was granted for (12시간 전). 4) datalab-extension-mcp: release 1.18.1 (21시간 전). 5) datalab-extension-mcp: release 1.18.0 (21시간 전). 6) envs: chore(release): 0.6.0, set writes the new value into the source's file (1일 전). 7) envs: feat(set): write the new value into the source's file, --catalog-only keeps the old way (1일 전). 8) .github: feat(ci): let a repository scan leave the dependency audit to its lock owner (2일 전)." src="https://raw.githubusercontent.com/myso-kr/myso-kr/main/assets/activity-light.svg" width="100%"></picture>
 
-<details><summary>최근 활동을 글로 보기 (2026-11-27 15:01 KST 기준)</summary>
+<details><summary>최근 활동을 글로 보기 (2026-11-27 21:01 KST 기준)</summary>
 
-- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.2 (5분 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.7 (6시간 전)
-- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(remote): a sign-in is sent only to the API origin it was granted for (6시간 전)
-- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.1 (15시간 전)
-- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.0 (15시간 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.6.0, set writes the new value into the source's file (18시간 전)
-- <a href="https://github.com/modootoday/envs">envs</a>: feat(set): write the new value into the source's file, --catalog-only keeps the old way (18시간 전)
-- <a href="https://github.com/modootoday/.github">.github</a>: feat(ci): let a repository scan leave the dependency audit to its lock owner (1일 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.2 (6시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: chore: release pmcp 0.37.7 (12시간 전)
+- <a href="https://github.com/modootoday/pmcp">pmcp</a>: fix(remote): a sign-in is sent only to the API origin it was granted for (12시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.1 (21시간 전)
+- <a href="https://github.com/modootoday/datalab-extension-mcp">datalab-extension-mcp</a>: release 1.18.0 (21시간 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: chore(release): 0.6.0, set writes the new value into the source's file (1일 전)
+- <a href="https://github.com/modootoday/envs">envs</a>: feat(set): write the new value into the source's file, --catalog-only keeps the old way (1일 전)
+- <a href="https://github.com/modootoday/.github">.github</a>: feat(ci): let a repository scan leave the dependency audit to its lock owner (2일 전)
 
 </details>
 
