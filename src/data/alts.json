@@ -1,35 +1,29 @@
 {
-  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-28 15:01 KST. 1) arks: feat(hub): refuse gh 2.105.0 event preview group with exit 2 (8분 전). 2) arks: docs(spec): classify gh 2.105.0 event preview as out-of-scope (10분 전). 3) datalab-extension-mcp: release 1.18.3 (4시간 전). 4) datalab-extension-mcp: docs docs-20261127T220514Z (7시간 전). 5) datalab-extension-mcp: docs docs-20261127T141145Z (15시간 전). 6) pmcp: chore: release pmcp 0.37.7 (1일 전). 7) pmcp: fix(remote): a sign-in is sent only to the API origin it was granted for (1일 전). 8) envs: chore(release): 0.6.0, set writes the new value into the source's file (1일 전).",
+  "activity": "최근 활동 – 공개 저장소 커밋 · 기준 2026-11-28 21:01 KST. 1) arks: feat(serve): add native Git LFS info/lfs server endpoint (E7) (10분 전). 2) datalab-extension-mcp: docs docs-20261128T102800Z (1시간 전). 3) datalab-extension-mcp: release 1.18.4 (1시간 전). 4) datalab-extension-mcp: release 1.18.3 (10시간 전). 5) pmcp: chore: release pmcp 0.37.7 (1일 전). 6) pmcp: fix(remote): a sign-in is sent only to the API origin it was granted for (1일 전). 7) envs: chore(release): 0.6.0, set writes the new value into the source's file (2일 전). 8) envs: feat(set): write the new value into the source's file, --catalog-only keeps the old way (2일 전).",
   "activity_items": [
     {
       "repo": "arks",
       "url": "https://github.com/modootoday/arks",
-      "msg": "feat(hub): refuse gh 2.105.0 event preview group with exit 2",
-      "when": "8분 전"
-    },
-    {
-      "repo": "arks",
-      "url": "https://github.com/modootoday/arks",
-      "msg": "docs(spec): classify gh 2.105.0 event preview as out-of-scope",
+      "msg": "feat(serve): add native Git LFS info/lfs server endpoint (E7)",
       "when": "10분 전"
     },
     {
       "repo": "datalab-extension-mcp",
       "url": "https://github.com/modootoday/datalab-extension-mcp",
+      "msg": "docs docs-20261128T102800Z",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "datalab-extension-mcp",
+      "url": "https://github.com/modootoday/datalab-extension-mcp",
+      "msg": "release 1.18.4",
+      "when": "1시간 전"
+    },
+    {
+      "repo": "datalab-extension-mcp",
+      "url": "https://github.com/modootoday/datalab-extension-mcp",
       "msg": "release 1.18.3",
-      "when": "4시간 전"
-    },
-    {
-      "repo": "datalab-extension-mcp",
-      "url": "https://github.com/modootoday/datalab-extension-mcp",
-      "msg": "docs docs-20261127T220514Z",
-      "when": "7시간 전"
-    },
-    {
-      "repo": "datalab-extension-mcp",
-      "url": "https://github.com/modootoday/datalab-extension-mcp",
-      "msg": "docs docs-20261127T141145Z",
-      "when": "15시간 전"
+      "when": "10시간 전"
     },
     {
       "repo": "pmcp",
@@ -47,10 +41,16 @@
       "repo": "envs",
       "url": "https://github.com/modootoday/envs",
       "msg": "chore(release): 0.6.0, set writes the new value into the source's file",
-      "when": "1일 전"
+      "when": "2일 전"
+    },
+    {
+      "repo": "envs",
+      "url": "https://github.com/modootoday/envs",
+      "msg": "feat(set): write the new value into the source's file, --catalog-only keeps the old way",
+      "when": "2일 전"
     }
   ],
-  "activity_stamp": "2026-11-28 15:01 KST",
+  "activity_stamp": "2026-11-28 21:01 KST",
   "contact-blog": "블로그: 준비 중 (블로그)",
   "contact-crates": "crates.io 크레이트: myso-kr (crates.io 프로필)",
   "contact-github": "GitHub: @myso-kr · @modootoday (GitHub 프로필)",
